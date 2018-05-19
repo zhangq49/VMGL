@@ -324,7 +324,8 @@ topdir=$1
 shift
 LC_ALL=C
 export LC_ALL
-${CPP:-cpp} "$@" -DXorgLoader sdksyms.c | ${AWK:-awk} -v topdir=$topdir '
+${CPP:-cpp} "$@" sdksyms.c > /dev/null || exit $?
+${CPP:-cpp} "$@" sdksyms.c | ${AWK:-awk} -v topdir=$topdir '
 BEGIN {
     sdk = 0;
     print("/*");
@@ -346,29 +347,48 @@ BEGIN {
     if (sdk && $3 ~ /\.h"$/) {
 	# remove quotes
 	gsub(/"/, "", $3);
+	line = $2;
+	header = $3;
 	if (! headers[$3]) {
 	    printf(" \\\n  %s", $3) >> "sdksyms.dep";
 	    headers[$3] = 1;
 	}
     }
+    next;
 }
 
 /^extern[ 	]/  {
     if (sdk) {
 	n = 3;
 
+        # skip line numbers GCC 5 adds before __attribute__
+        while ($n == "" || $0 ~ /^# [0-9]+ "/) {
+           getline;
+           n = 1;
+        }
+
 	# skip attribute, if any
 	while ($n ~ /^(__attribute__|__global)/ ||
 	    # skip modifiers, if any
-	    $n ~ /^\*?(unsigned|const|volatile|struct)$/ ||
+	    $n ~ /^\*?(unsigned|const|volatile|struct|_X_EXPORT)$/ ||
 	    # skip pointer
-	    $n ~ /\*$/)
+	    $n ~ /^[a-zA-Z0-9_]*\*$/) {
 	    n++;
+            # skip line numbers GCC 5 adds after __attribute__
+            while ($n == "" || $0 ~ /^# [0-9]+ "/) {
+               getline;
+               n = 1;
+            }
+        }
 
 	# type specifier may not be set, as in
 	#   extern _X_EXPORT unsigned name(...)
 	if ($n !~ /[^a-zA-Z0-9_]/)
 	    n++;
+
+	# go back if we are at the parameter list already
+	if ($n ~ /^[(]([^*].*)?$/)
+	    n--;
 
 	# match
 	#    extern _X_EXPORT type (* name[])(...)
@@ -387,6 +407,9 @@ BEGIN {
 	if ($n == "" || $n ~ /^\*+$/) {
 	    getline;
 	    n = 1;
+	    # indent may have inserted a blank link
+	    if ($0 == "")
+		getline;
 	}
 
 	# dont modify $0 or $n
@@ -399,8 +422,12 @@ BEGIN {
 	sub(/[^a-zA-Z0-9_].*/, "", symbol);
 
 	#print;
-	printf("    (void *) &%s,\n", symbol);
+	printf("    (void *) &%-50s /* %s:%s */\n", symbol ",", header, line);
     }
+}
+
+{
+    line++;
 }
 
 END {
@@ -417,3 +444,4 @@ rm _sdksyms.c
 [ $? != 0 ] && exit $?
 
 exit $STATUS
+
