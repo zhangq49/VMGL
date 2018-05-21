@@ -796,7 +796,7 @@ lndir.o: /usr/include/features.h /usr/include/sys/cdefs.h
 lndir.o: /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h
 lndir.o: /usr/include/gnu/stubs-64.h /usr/include/bits/types.h
 lndir.o: /usr/include/bits/typesizes.h /usr/include/time.h
-lndir.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+lndir.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 lndir.o: /usr/include/endian.h /usr/include/bits/endian.h
 lndir.o: /usr/include/bits/byteswap.h /usr/include/sys/select.h
 lndir.o: /usr/include/bits/select.h /usr/include/bits/sigset.h
@@ -809,7 +809,7 @@ lndir.o: /usr/include/bits/confname.h /usr/include/getopt.h
 lndir.o: /usr/include/sys/time.h ../.././exports/include/X11/Xfuncproto.h
 lndir.o: /usr/include/stdio.h /usr/include/libio.h /usr/include/_G_config.h
 lndir.o: /usr/include/wchar.h
-lndir.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stdarg.h
+lndir.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stdarg.h
 lndir.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
 lndir.o: /usr/include/sys/stat.h /usr/include/sys/param.h
 lndir.o: /usr/include/limits.h /usr/include/bits/posix1_lim.h

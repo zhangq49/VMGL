@@ -5,7 +5,7 @@ xdmxconfig-Canvas.o: Canvas.c /usr/include/X11/IntrinsicP.h \
  /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h \
  /usr/include/bits/types.h /usr/include/bits/typesizes.h \
  /usr/include/time.h \
- /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h \
+ /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h \
  /usr/include/endian.h /usr/include/bits/endian.h \
  /usr/include/bits/byteswap.h /usr/include/sys/select.h \
  /usr/include/bits/select.h /usr/include/bits/sigset.h \
@@ -47,7 +47,7 @@ xdmxconfig-Canvas.o: Canvas.c /usr/include/X11/IntrinsicP.h \
 
 /usr/include/time.h:
 
-/usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h:
+/usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h:
 
 /usr/include/endian.h:
 

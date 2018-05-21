@@ -788,7 +788,7 @@ mivaltree.o: ../include/screenint.h ../include/misc.h
 mivaltree.o: ../../.././exports/include/X11/Xosdefs.h
 mivaltree.o: ../../.././exports/include/X11/Xfuncproto.h
 mivaltree.o: ../../.././exports/include/X11/X.h
-mivaltree.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+mivaltree.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 mivaltree.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 mivaltree.o: /usr/include/string.h /usr/include/features.h
 mivaltree.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -810,7 +810,7 @@ mipolyseg.o: ../include/miscstruct.h ../include/misc.h
 mipolyseg.o: ../../.././exports/include/X11/Xosdefs.h
 mipolyseg.o: ../../.././exports/include/X11/Xfuncproto.h
 mipolyseg.o: ../../.././exports/include/X11/X.h
-mipolyseg.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+mipolyseg.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 mipolyseg.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 mipolyseg.o: /usr/include/string.h /usr/include/features.h
 mipolyseg.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -827,7 +827,7 @@ mipolyrect.o: ../include/miscstruct.h ../include/misc.h
 mipolyrect.o: ../../.././exports/include/X11/Xosdefs.h
 mipolyrect.o: ../../.././exports/include/X11/Xfuncproto.h
 mipolyrect.o: ../../.././exports/include/X11/X.h
-mipolyrect.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+mipolyrect.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 mipolyrect.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 mipolyrect.o: /usr/include/string.h /usr/include/features.h
 mipolyrect.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -843,7 +843,7 @@ mipoly.o: ../include/window.h ../include/misc.h
 mipoly.o: ../../.././exports/include/X11/Xosdefs.h
 mipoly.o: ../../.././exports/include/X11/Xfuncproto.h
 mipoly.o: ../../.././exports/include/X11/X.h
-mipoly.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+mipoly.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 mipoly.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 mipoly.o: /usr/include/string.h /usr/include/features.h
 mipoly.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -863,7 +863,7 @@ mipolycon.o: ../../.././exports/include/X11/Xosdefs.h
 mipolycon.o: ../../.././exports/include/X11/Xfuncproto.h
 mipolycon.o: ../../.././exports/include/X11/Xmd.h
 mipolycon.o: ../../.././exports/include/X11/X.h
-mipolycon.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+mipolycon.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 mipolycon.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 mipolycon.o: /usr/include/string.h /usr/include/features.h
 mipolycon.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -881,7 +881,7 @@ mipolygen.o: ../include/gc.h ../include/misc.h
 mipolygen.o: ../../.././exports/include/X11/Xosdefs.h
 mipolygen.o: ../../.././exports/include/X11/Xfuncproto.h
 mipolygen.o: ../../.././exports/include/X11/X.h
-mipolygen.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+mipolygen.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 mipolygen.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 mipolygen.o: /usr/include/string.h /usr/include/features.h
 mipolygen.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -898,7 +898,7 @@ mipolyutil.o: ../../.././exports/include/X11/Xosdefs.h
 mipolyutil.o: ../../.././exports/include/X11/Xfuncproto.h
 mipolyutil.o: ../../.././exports/include/X11/Xmd.h
 mipolyutil.o: ../../.././exports/include/X11/X.h
-mipolyutil.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+mipolyutil.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 mipolyutil.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 mipolyutil.o: /usr/include/string.h /usr/include/features.h
 mipolyutil.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -914,7 +914,7 @@ mifillrct.o: ../include/gc.h ../include/misc.h
 mifillrct.o: ../../.././exports/include/X11/Xosdefs.h
 mifillrct.o: ../../.././exports/include/X11/Xfuncproto.h
 mifillrct.o: ../../.././exports/include/X11/X.h
-mifillrct.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+mifillrct.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 mifillrct.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 mifillrct.o: /usr/include/string.h /usr/include/features.h
 mifillrct.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -931,11 +931,11 @@ mifillrct.o: ../include/input.h ../include/opaque.h
 miwideline.o: /usr/include/stdio.h /usr/include/features.h
 miwideline.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
 miwideline.o: /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h
-miwideline.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+miwideline.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 miwideline.o: /usr/include/bits/types.h /usr/include/bits/typesizes.h
 miwideline.o: /usr/include/libio.h /usr/include/_G_config.h
 miwideline.o: /usr/include/wchar.h
-miwideline.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stdarg.h
+miwideline.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stdarg.h
 miwideline.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
 miwideline.o: /usr/include/getopt.h /usr/include/math.h
 miwideline.o: /usr/include/bits/huge_val.h /usr/include/bits/mathdef.h
@@ -962,7 +962,7 @@ mispans.o: ../include/misc.h ../../.././exports/include/X11/Xosdefs.h
 mispans.o: ../../.././exports/include/X11/Xfuncproto.h
 mispans.o: ../../.././exports/include/X11/Xmd.h
 mispans.o: ../../.././exports/include/X11/X.h
-mispans.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+mispans.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 mispans.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 mispans.o: /usr/include/string.h /usr/include/features.h
 mispans.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -983,7 +983,7 @@ miarc.o: ../../.././exports/include/X11/Xprotostr.h ../include/misc.h
 miarc.o: ../../.././exports/include/X11/Xosdefs.h
 miarc.o: ../../.././exports/include/X11/Xfuncproto.h
 miarc.o: ../../.././exports/include/X11/X.h
-miarc.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+miarc.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 miarc.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 miarc.o: /usr/include/string.h ../../.././exports/include/X11/Xfuncs.h
 miarc.o: ../include/gcstruct.h ../include/gc.h
@@ -1008,7 +1008,7 @@ mizerarc.o: ../include/miscstruct.h ../include/misc.h
 mizerarc.o: ../../.././exports/include/X11/Xosdefs.h
 mizerarc.o: ../../.././exports/include/X11/Xfuncproto.h
 mizerarc.o: ../../.././exports/include/X11/X.h
-mizerarc.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+mizerarc.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 mizerarc.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 mizerarc.o: /usr/include/string.h ../../.././exports/include/X11/Xfuncs.h
 mizerarc.o: ../../.././exports/include/X11/Xprotostr.h ../include/gcstruct.h
@@ -1029,7 +1029,7 @@ mifillarc.o: ../include/miscstruct.h ../include/misc.h
 mifillarc.o: ../../.././exports/include/X11/Xosdefs.h
 mifillarc.o: ../../.././exports/include/X11/Xfuncproto.h
 mifillarc.o: ../../.././exports/include/X11/X.h
-mifillarc.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+mifillarc.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 mifillarc.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 mifillarc.o: /usr/include/string.h ../../.././exports/include/X11/Xfuncs.h
 mifillarc.o: ../../.././exports/include/X11/Xprotostr.h ../include/gcstruct.h
@@ -1044,7 +1044,7 @@ miwindow.o: ../../.././exports/include/X11/Xmd.h ../include/miscstruct.h
 miwindow.o: ../include/misc.h ../../.././exports/include/X11/Xosdefs.h
 miwindow.o: ../../.././exports/include/X11/Xfuncproto.h
 miwindow.o: ../../.././exports/include/X11/X.h
-miwindow.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+miwindow.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 miwindow.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 miwindow.o: /usr/include/string.h /usr/include/features.h
 miwindow.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -1065,7 +1065,7 @@ micursor.o: ../../.././exports/include/X11/Xosdefs.h
 micursor.o: ../../.././exports/include/X11/Xfuncproto.h
 micursor.o: ../../.././exports/include/X11/Xmd.h
 micursor.o: ../../.././exports/include/X11/X.h
-micursor.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+micursor.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 micursor.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 micursor.o: /usr/include/string.h /usr/include/features.h
 micursor.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -1079,11 +1079,11 @@ micursor.o: ../include/dix.h ../include/input.h
 miregion.o: /usr/include/stdio.h /usr/include/features.h
 miregion.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
 miregion.o: /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h
-miregion.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+miregion.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 miregion.o: /usr/include/bits/types.h /usr/include/bits/typesizes.h
 miregion.o: /usr/include/libio.h /usr/include/_G_config.h
 miregion.o: /usr/include/wchar.h
-miregion.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stdarg.h
+miregion.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stdarg.h
 miregion.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
 miregion.o: /usr/include/getopt.h ../include/miscstruct.h ../include/misc.h
 miregion.o: ../../.././exports/include/X11/Xosdefs.h
@@ -1104,7 +1104,7 @@ mipolytext.o: ../../.././exports/include/X11/Xprotostr.h ../include/misc.h
 mipolytext.o: ../../.././exports/include/X11/Xosdefs.h
 mipolytext.o: ../../.././exports/include/X11/Xfuncproto.h
 mipolytext.o: ../../.././exports/include/X11/X.h
-mipolytext.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+mipolytext.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 mipolytext.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 mipolytext.o: /usr/include/string.h /usr/include/features.h
 mipolytext.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -1126,7 +1126,7 @@ mibitblt.o: ../../.././exports/include/X11/Xprotostr.h ../include/misc.h
 mibitblt.o: ../../.././exports/include/X11/Xosdefs.h
 mibitblt.o: ../../.././exports/include/X11/Xfuncproto.h
 mibitblt.o: ../../.././exports/include/X11/X.h
-mibitblt.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+mibitblt.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 mibitblt.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 mibitblt.o: /usr/include/string.h /usr/include/features.h
 mibitblt.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -1149,7 +1149,7 @@ mipolypnt.o: ../include/pixmapstr.h ../include/pixmap.h ../include/misc.h
 mipolypnt.o: ../../.././exports/include/X11/Xosdefs.h
 mipolypnt.o: ../../.././exports/include/X11/Xfuncproto.h
 mipolypnt.o: ../../.././exports/include/X11/X.h
-mipolypnt.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+mipolypnt.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 mipolypnt.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 mipolypnt.o: /usr/include/string.h /usr/include/features.h
 mipolypnt.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -1168,7 +1168,7 @@ mipushpxl.o: ../include/gc.h ../include/misc.h
 mipushpxl.o: ../../.././exports/include/X11/Xosdefs.h
 mipushpxl.o: ../../.././exports/include/X11/Xfuncproto.h
 mipushpxl.o: ../../.././exports/include/X11/X.h
-mipushpxl.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+mipushpxl.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 mipushpxl.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 mipushpxl.o: /usr/include/string.h /usr/include/features.h
 mipushpxl.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -1193,7 +1193,7 @@ miexpose.o: ../../.././exports/include/X11/Xprotostr.h ../include/misc.h
 miexpose.o: ../../.././exports/include/X11/Xosdefs.h
 miexpose.o: ../../.././exports/include/X11/Xfuncproto.h
 miexpose.o: ../../.././exports/include/X11/X.h
-miexpose.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+miexpose.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 miexpose.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 miexpose.o: /usr/include/string.h /usr/include/features.h
 miexpose.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -1218,7 +1218,7 @@ miglblt.o: ../../.././exports/include/X11/Xprotostr.h ../include/misc.h
 miglblt.o: ../../.././exports/include/X11/Xosdefs.h
 miglblt.o: ../../.././exports/include/X11/Xfuncproto.h
 miglblt.o: ../../.././exports/include/X11/X.h
-miglblt.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+miglblt.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 miglblt.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 miglblt.o: /usr/include/string.h /usr/include/features.h
 miglblt.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -1241,7 +1241,7 @@ mizerline.o: ../../.././exports/include/X11/Xmd.h ../include/misc.h
 mizerline.o: ../../.././exports/include/X11/Xosdefs.h
 mizerline.o: ../../.././exports/include/X11/Xfuncproto.h
 mizerline.o: ../../.././exports/include/X11/X.h
-mizerline.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+mizerline.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 mizerline.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 mizerline.o: /usr/include/string.h /usr/include/features.h
 mizerline.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -1269,7 +1269,7 @@ mifpolycon.o: ../include/gc.h ../include/misc.h
 mifpolycon.o: ../../.././exports/include/X11/Xosdefs.h
 mifpolycon.o: ../../.././exports/include/X11/Xfuncproto.h
 mifpolycon.o: ../../.././exports/include/X11/X.h
-mifpolycon.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+mifpolycon.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 mifpolycon.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 mifpolycon.o: /usr/include/string.h ../../.././exports/include/X11/Xfuncs.h
 mifpolycon.o: ../../.././exports/include/X11/Xproto.h
@@ -1287,7 +1287,7 @@ midash.o: ../../.././exports/include/X11/Xosdefs.h
 midash.o: ../../.././exports/include/X11/Xfuncproto.h
 midash.o: ../../.././exports/include/X11/Xmd.h
 midash.o: ../../.././exports/include/X11/X.h
-midash.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+midash.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 midash.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 midash.o: /usr/include/string.h /usr/include/features.h
 midash.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -1308,7 +1308,7 @@ mibstore.o: ../../.././exports/include/X11/Xprotostr.h ../include/misc.h
 mibstore.o: ../../.././exports/include/X11/Xosdefs.h
 mibstore.o: ../../.././exports/include/X11/Xfuncproto.h
 mibstore.o: ../../.././exports/include/X11/X.h
-mibstore.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+mibstore.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 mibstore.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 mibstore.o: /usr/include/string.h /usr/include/features.h
 mibstore.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -1331,7 +1331,7 @@ miinitext.o: ../include/misc.h ../../.././exports/include/X11/Xosdefs.h
 miinitext.o: ../../.././exports/include/X11/Xfuncproto.h
 miinitext.o: ../../.././exports/include/X11/Xmd.h
 miinitext.o: ../../.././exports/include/X11/X.h
-miinitext.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+miinitext.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 miinitext.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 miinitext.o: /usr/include/string.h /usr/include/features.h
 miinitext.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -1345,7 +1345,7 @@ mieq.o: ../../.././exports/include/X11/Xprotostr.h ../include/misc.h
 mieq.o: ../../.././exports/include/X11/Xosdefs.h
 mieq.o: ../../.././exports/include/X11/Xfuncproto.h
 mieq.o: ../../.././exports/include/X11/X.h
-mieq.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+mieq.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 mieq.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 mieq.o: /usr/include/string.h /usr/include/features.h
 mieq.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -1368,7 +1368,7 @@ mipointer.o: ../../.././exports/include/X11/Xprotostr.h ../include/misc.h
 mipointer.o: ../../.././exports/include/X11/Xosdefs.h
 mipointer.o: ../../.././exports/include/X11/Xfuncproto.h
 mipointer.o: ../../.././exports/include/X11/X.h
-mipointer.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+mipointer.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 mipointer.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 mipointer.o: /usr/include/string.h /usr/include/features.h
 mipointer.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -1391,7 +1391,7 @@ misprite.o: ../../.././exports/include/X11/Xprotostr.h ../include/misc.h
 misprite.o: ../../.././exports/include/X11/Xosdefs.h
 misprite.o: ../../.././exports/include/X11/Xfuncproto.h
 misprite.o: ../../.././exports/include/X11/X.h
-misprite.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+misprite.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 misprite.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 misprite.o: /usr/include/string.h /usr/include/features.h
 misprite.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -1416,7 +1416,7 @@ midispcur.o: ../../.././exports/include/X11/Xmd.h ../include/misc.h
 midispcur.o: ../../.././exports/include/X11/Xosdefs.h
 midispcur.o: ../../.././exports/include/X11/Xfuncproto.h
 midispcur.o: ../../.././exports/include/X11/X.h
-midispcur.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+midispcur.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 midispcur.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 midispcur.o: /usr/include/string.h /usr/include/features.h
 midispcur.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -1439,7 +1439,7 @@ miscrinit.o: ../../.././exports/include/X11/Xmd.h ../include/servermd.h
 miscrinit.o: ../include/misc.h ../../.././exports/include/X11/Xosdefs.h
 miscrinit.o: ../../.././exports/include/X11/Xfuncproto.h
 miscrinit.o: ../../.././exports/include/X11/X.h
-miscrinit.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+miscrinit.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 miscrinit.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 miscrinit.o: /usr/include/string.h /usr/include/features.h
 miscrinit.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -1460,7 +1460,7 @@ miclipn.o: ../include/window.h ../include/misc.h
 miclipn.o: ../../.././exports/include/X11/Xosdefs.h
 miclipn.o: ../../.././exports/include/X11/Xfuncproto.h
 miclipn.o: ../../.././exports/include/X11/X.h
-miclipn.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+miclipn.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 miclipn.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 miclipn.o: /usr/include/string.h /usr/include/features.h
 miclipn.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -1478,7 +1478,7 @@ migc.o: ../../.././exports/include/X11/Xosdefs.h
 migc.o: ../../.././exports/include/X11/Xfuncproto.h
 migc.o: ../../.././exports/include/X11/Xmd.h
 migc.o: ../../.././exports/include/X11/X.h
-migc.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+migc.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 migc.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 migc.o: /usr/include/string.h /usr/include/features.h
 migc.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h

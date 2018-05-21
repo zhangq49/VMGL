@@ -702,10 +702,10 @@ curves.o: ../../.././exports/include/X11/Xmd.h
 fontfcn.o: /usr/include/stdio.h /usr/include/features.h
 fontfcn.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
 fontfcn.o: /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h
-fontfcn.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+fontfcn.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 fontfcn.o: /usr/include/bits/types.h /usr/include/bits/typesizes.h
 fontfcn.o: /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h
-fontfcn.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stdarg.h
+fontfcn.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stdarg.h
 fontfcn.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
 fontfcn.o: /usr/include/getopt.h /usr/include/string.h t1imager.h
 fontfcn.o: ../include/fontmisc.h ../../.././exports/include/X11/Xfuncs.h
@@ -728,7 +728,7 @@ lines.o: /usr/include/bits/stdio_lim.h lines.h
 objects.o: /usr/include/string.h /usr/include/features.h
 objects.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
 objects.o: /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h
-objects.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+objects.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 objects.o: /usr/include/ctype.h /usr/include/bits/types.h
 objects.o: /usr/include/bits/typesizes.h /usr/include/endian.h
 objects.o: /usr/include/bits/endian.h /usr/include/bits/byteswap.h objects.h
@@ -755,14 +755,14 @@ regions.o: fonts.h hints.h strokes.h
 scanfont.o: /usr/include/string.h /usr/include/features.h
 scanfont.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
 scanfont.o: /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h
-scanfont.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h t1stdio.h
+scanfont.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h t1stdio.h
 scanfont.o: util.h token.h fontfcn.h blues.h
 spaces.o: objects.h spaces.h paths.h pictures.h fonts.h arith.h
 spaces.o: ../../.././exports/include/X11/Xmd.h trig.h
 t1funcs.o: /usr/include/string.h /usr/include/features.h
 t1funcs.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
 t1funcs.o: /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h
-t1funcs.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+t1funcs.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 t1funcs.o: /usr/include/math.h /usr/include/bits/huge_val.h
 t1funcs.o: /usr/include/bits/mathdef.h /usr/include/bits/mathcalls.h
 t1funcs.o: ../../.././exports/include/X11/Xfuncs.h
@@ -794,10 +794,10 @@ t1funcs.o: /usr/include/bits/stdio_lim.h t1stdio.h util.h fontfcn.h
 t1info.o: /usr/include/stdio.h /usr/include/features.h
 t1info.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
 t1info.o: /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h
-t1info.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+t1info.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 t1info.o: /usr/include/bits/types.h /usr/include/bits/typesizes.h
 t1info.o: /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h
-t1info.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stdarg.h
+t1info.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stdarg.h
 t1info.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
 t1info.o: /usr/include/getopt.h ../include/fntfilst.h
 t1info.o: ../../.././exports/include/X11/Xos.h
@@ -828,7 +828,7 @@ t1io.o: /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h
 t1io.o: /usr/include/gnu/stubs-64.h /usr/include/bits/fcntl.h
 t1io.o: /usr/include/sys/types.h /usr/include/bits/types.h
 t1io.o: /usr/include/bits/typesizes.h /usr/include/time.h
-t1io.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+t1io.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 t1io.o: /usr/include/endian.h /usr/include/bits/endian.h
 t1io.o: /usr/include/bits/byteswap.h /usr/include/sys/select.h
 t1io.o: /usr/include/bits/select.h /usr/include/bits/sigset.h
@@ -842,20 +842,20 @@ token.o: t1stdio.h util.h digit.h token.h tokst.h hdigit.h
 type1.o: /usr/include/stdio.h /usr/include/features.h
 type1.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
 type1.o: /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h
-type1.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+type1.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 type1.o: /usr/include/bits/types.h /usr/include/bits/typesizes.h
 type1.o: /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h
-type1.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stdarg.h
+type1.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stdarg.h
 type1.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
 type1.o: /usr/include/getopt.h objects.h spaces.h paths.h fonts.h pictures.h
 type1.o: util.h blues.h
 util.o: /usr/include/stdio.h /usr/include/features.h /usr/include/sys/cdefs.h
 util.o: /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h
 util.o: /usr/include/gnu/stubs-64.h
-util.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+util.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 util.o: /usr/include/bits/types.h /usr/include/bits/typesizes.h
 util.o: /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h
-util.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stdarg.h
+util.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stdarg.h
 util.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
 util.o: /usr/include/getopt.h util.h ../include/fontmisc.h
 util.o: ../../.././exports/include/X11/Xfuncs.h

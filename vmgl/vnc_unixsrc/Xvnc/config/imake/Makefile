@@ -701,10 +701,10 @@ depend::
 imake.o: /usr/include/stdio.h /usr/include/features.h
 imake.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
 imake.o: /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h
-imake.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+imake.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 imake.o: /usr/include/bits/types.h /usr/include/bits/typesizes.h
 imake.o: /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h
-imake.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stdarg.h
+imake.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stdarg.h
 imake.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
 imake.o: /usr/include/getopt.h ../.././include/Xosdefs.h
 imake.o: /usr/include/string.h /usr/include/ctype.h /usr/include/endian.h

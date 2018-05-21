@@ -850,7 +850,7 @@ WaitFor.o: /usr/include/features.h /usr/include/sys/cdefs.h
 WaitFor.o: /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h
 WaitFor.o: /usr/include/gnu/stubs-64.h /usr/include/bits/types.h
 WaitFor.o: /usr/include/bits/typesizes.h /usr/include/time.h
-WaitFor.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+WaitFor.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 WaitFor.o: /usr/include/endian.h /usr/include/bits/endian.h
 WaitFor.o: /usr/include/bits/byteswap.h /usr/include/sys/select.h
 WaitFor.o: /usr/include/bits/select.h /usr/include/bits/sigset.h
@@ -865,7 +865,7 @@ WaitFor.o: /usr/include/bits/errno.h /usr/include/linux/errno.h
 WaitFor.o: /usr/include/asm/errno.h /usr/include/asm-generic/errno.h
 WaitFor.o: /usr/include/asm-generic/errno-base.h /usr/include/stdio.h
 WaitFor.o: /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h
-WaitFor.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stdarg.h
+WaitFor.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stdarg.h
 WaitFor.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
 WaitFor.o: ../../.././exports/include/X11/X.h
 WaitFor.o: ../../.././exports/include/X11/Xmd.h ../include/misc.h
@@ -889,10 +889,10 @@ WaitFor.o: ../include/resource.h ../include/cursor.h ../include/opaque.h
 access.o: /usr/include/stdio.h /usr/include/features.h
 access.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
 access.o: /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h
-access.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+access.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 access.o: /usr/include/bits/types.h /usr/include/bits/typesizes.h
 access.o: /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h
-access.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stdarg.h
+access.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stdarg.h
 access.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
 access.o: /usr/include/getopt.h ../../.././exports/include/X11/Xtrans.h
 access.o: ../../.././exports/include/X11/Xfuncproto.h
@@ -949,7 +949,7 @@ connection.o: /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h
 connection.o: /usr/include/gnu/stubs-64.h /usr/include/sys/types.h
 connection.o: /usr/include/bits/types.h /usr/include/bits/typesizes.h
 connection.o: /usr/include/time.h
-connection.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+connection.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 connection.o: /usr/include/endian.h /usr/include/bits/endian.h
 connection.o: /usr/include/bits/byteswap.h /usr/include/sys/select.h
 connection.o: /usr/include/bits/select.h /usr/include/bits/sigset.h
@@ -965,7 +965,7 @@ connection.o: /usr/include/bits/sigstack.h /usr/include/sys/ucontext.h
 connection.o: /usr/include/bits/sigthread.h /usr/include/stdio.h
 connection.o: /usr/include/libio.h /usr/include/_G_config.h
 connection.o: /usr/include/wchar.h
-connection.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stdarg.h
+connection.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stdarg.h
 connection.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
 connection.o: /usr/include/getopt.h /usr/include/sys/socket.h
 connection.o: /usr/include/bits/socket.h /usr/include/bits/sockaddr.h
@@ -993,10 +993,10 @@ connection.o: ../include/resource.h ../include/cursor.h
 io.o: /usr/include/stdio.h /usr/include/features.h /usr/include/sys/cdefs.h
 io.o: /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h
 io.o: /usr/include/gnu/stubs-64.h
-io.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+io.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 io.o: /usr/include/bits/types.h /usr/include/bits/typesizes.h
 io.o: /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h
-io.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stdarg.h
+io.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stdarg.h
 io.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
 io.o: /usr/include/getopt.h ../../.././exports/include/X11/Xtrans.h
 io.o: ../../.././exports/include/X11/Xfuncproto.h
@@ -1032,10 +1032,10 @@ io.o: ../../.././include/extensions/bigreqstr.h
 oscolor.o: /usr/include/stdio.h /usr/include/features.h
 oscolor.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
 oscolor.o: /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h
-oscolor.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+oscolor.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 oscolor.o: /usr/include/bits/types.h /usr/include/bits/typesizes.h
 oscolor.o: /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h
-oscolor.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stdarg.h
+oscolor.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stdarg.h
 oscolor.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
 oscolor.o: /usr/include/getopt.h ../include/os.h ../include/misc.h
 oscolor.o: ../../.././exports/include/X11/Xosdefs.h
@@ -1047,10 +1047,10 @@ oscolor.o: ../../.././exports/include/X11/Xalloca.h ../include/opaque.h
 osinit.o: /usr/include/stdio.h /usr/include/features.h
 osinit.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
 osinit.o: /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h
-osinit.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+osinit.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 osinit.o: /usr/include/bits/types.h /usr/include/bits/typesizes.h
 osinit.o: /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h
-osinit.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stdarg.h
+osinit.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stdarg.h
 osinit.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
 osinit.o: /usr/include/getopt.h ../../.././exports/include/X11/X.h
 osinit.o: ../../.././exports/include/X11/Xmd.h ../include/os.h
@@ -1081,7 +1081,7 @@ utils.o: /usr/include/features.h /usr/include/sys/cdefs.h
 utils.o: /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h
 utils.o: /usr/include/gnu/stubs-64.h /usr/include/bits/types.h
 utils.o: /usr/include/bits/typesizes.h /usr/include/time.h
-utils.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+utils.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 utils.o: /usr/include/endian.h /usr/include/bits/endian.h
 utils.o: /usr/include/bits/byteswap.h /usr/include/sys/select.h
 utils.o: /usr/include/bits/select.h /usr/include/bits/sigset.h
@@ -1093,7 +1093,7 @@ utils.o: /usr/include/bits/posix_opt.h /usr/include/bits/environments.h
 utils.o: /usr/include/bits/confname.h /usr/include/getopt.h
 utils.o: /usr/include/sys/time.h /usr/include/stdio.h /usr/include/libio.h
 utils.o: /usr/include/_G_config.h /usr/include/wchar.h
-utils.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stdarg.h
+utils.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stdarg.h
 utils.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
 utils.o: ../include/misc.h ../../.././exports/include/X11/Xfuncproto.h
 utils.o: ../../.././exports/include/X11/Xmd.h
@@ -1137,11 +1137,11 @@ auth.o: ../../.././exports/include/X11/Xosdefs.h /usr/include/string.h
 auth.o: /usr/include/features.h /usr/include/sys/cdefs.h
 auth.o: /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h
 auth.o: /usr/include/gnu/stubs-64.h
-auth.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+auth.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 auth.o: /usr/include/stdio.h /usr/include/bits/types.h
 auth.o: /usr/include/bits/typesizes.h /usr/include/libio.h
 auth.o: /usr/include/_G_config.h /usr/include/wchar.h
-auth.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stdarg.h
+auth.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stdarg.h
 auth.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
 auth.o: /usr/include/getopt.h ../include/misc.h
 auth.o: ../../.././exports/include/X11/X.h ../include/os.h
@@ -1167,7 +1167,7 @@ mitauth.o: ../../.././exports/include/X11/Xfuncs.h /usr/include/string.h
 mitauth.o: /usr/include/features.h /usr/include/sys/cdefs.h
 mitauth.o: /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h
 mitauth.o: /usr/include/gnu/stubs-64.h
-mitauth.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+mitauth.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 mitauth.o: ../../.././exports/include/X11/Xalloca.h ../include/dixstruct.h
 mitauth.o: ../include/dix.h ../include/gc.h
 mitauth.o: ../../.././exports/include/X11/Xproto.h
@@ -1184,7 +1184,7 @@ secauth.o: ../../.././exports/include/X11/Xfuncs.h /usr/include/string.h
 secauth.o: /usr/include/features.h /usr/include/sys/cdefs.h
 secauth.o: /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h
 secauth.o: /usr/include/gnu/stubs-64.h
-secauth.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+secauth.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 secauth.o: ../../.././exports/include/X11/Xalloca.h osdep.h
 secauth.o: /usr/include/limits.h /usr/include/bits/posix1_lim.h
 secauth.o: /usr/include/bits/local_lim.h /usr/include/linux/limits.h
@@ -1207,7 +1207,7 @@ secauth.o: ../include/resource.h ../include/cursor.h
 secauth.o: ../../.././exports/include/X11/extensions/security.h
 secauth.o: ../../.././exports/include/X11/Xauth.h /usr/include/stdio.h
 secauth.o: /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h
-secauth.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stdarg.h
+secauth.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stdarg.h
 secauth.o: /usr/include/bits/sys_errlist.h /usr/include/getopt.h
 secauth.o: ../include/property.h
 xdmauth.o: ../../.././exports/include/X11/X.h
@@ -1220,7 +1220,7 @@ xdmauth.o: /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h
 xdmauth.o: /usr/include/gnu/stubs-64.h /usr/include/sys/types.h
 xdmauth.o: /usr/include/bits/types.h /usr/include/bits/typesizes.h
 xdmauth.o: /usr/include/time.h
-xdmauth.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+xdmauth.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 xdmauth.o: /usr/include/endian.h /usr/include/bits/endian.h
 xdmauth.o: /usr/include/bits/byteswap.h /usr/include/sys/select.h
 xdmauth.o: /usr/include/bits/select.h /usr/include/bits/sigset.h
@@ -1251,7 +1251,7 @@ xdmcp.o: /usr/include/features.h /usr/include/sys/cdefs.h
 xdmcp.o: /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h
 xdmcp.o: /usr/include/gnu/stubs-64.h /usr/include/bits/types.h
 xdmcp.o: /usr/include/bits/typesizes.h /usr/include/time.h
-xdmcp.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+xdmcp.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 xdmcp.o: /usr/include/endian.h /usr/include/bits/endian.h
 xdmcp.o: /usr/include/bits/byteswap.h /usr/include/sys/select.h
 xdmcp.o: /usr/include/bits/select.h /usr/include/bits/sigset.h
@@ -1276,7 +1276,7 @@ xdmcp.o: /usr/include/stdint.h /usr/include/bits/wchar.h
 xdmcp.o: /usr/include/bits/in.h /usr/include/netdb.h /usr/include/rpc/netdb.h
 xdmcp.o: /usr/include/bits/netdb.h /usr/include/stdio.h /usr/include/libio.h
 xdmcp.o: /usr/include/_G_config.h /usr/include/wchar.h
-xdmcp.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stdarg.h
+xdmcp.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stdarg.h
 xdmcp.o: /usr/include/bits/sys_errlist.h ../../.././exports/include/X11/X.h
 xdmcp.o: ../../.././exports/include/X11/Xmd.h
 xdmcp.o: ../../.././exports/include/X11/Xmd.h ../include/misc.h
@@ -1295,11 +1295,11 @@ xdmcp.o: ../include/opaque.h ../../.././exports/include/X11/Xdmcp.h
 decompress.o: /usr/include/stdio.h /usr/include/features.h
 decompress.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
 decompress.o: /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h
-decompress.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+decompress.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 decompress.o: /usr/include/bits/types.h /usr/include/bits/typesizes.h
 decompress.o: /usr/include/libio.h /usr/include/_G_config.h
 decompress.o: /usr/include/wchar.h
-decompress.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stdarg.h
+decompress.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stdarg.h
 decompress.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
 decompress.o: /usr/include/getopt.h ../../.././exports/include/X11/Xos.h
 decompress.o: ../../.././exports/include/X11/Xosdefs.h
@@ -1327,7 +1327,7 @@ transport.o: ../../.././exports/include/X11/Xfuncs.h /usr/include/string.h
 transport.o: /usr/include/features.h /usr/include/sys/cdefs.h
 transport.o: /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h
 transport.o: /usr/include/gnu/stubs-64.h
-transport.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+transport.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 transport.o: ../../.././exports/include/X11/Xalloca.h
 transport.o: ../../.././lib/xtrans/Xtransint.h
 transport.o: ../../.././exports/include/X11/Xtrans.h
@@ -1341,7 +1341,7 @@ transport.o: /usr/include/bits/time.h /usr/include/sys/sysmacros.h
 transport.o: /usr/include/bits/pthreadtypes.h /usr/include/bits/uio.h
 transport.o: /usr/include/stdio.h /usr/include/libio.h
 transport.o: /usr/include/_G_config.h /usr/include/wchar.h
-transport.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stdarg.h
+transport.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stdarg.h
 transport.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
 transport.o: /usr/include/getopt.h /usr/include/errno.h
 transport.o: /usr/include/bits/errno.h /usr/include/linux/errno.h

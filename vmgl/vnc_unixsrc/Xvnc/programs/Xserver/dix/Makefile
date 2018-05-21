@@ -790,7 +790,7 @@ atom.o: ../../.././exports/include/X11/Xatom.h ../include/misc.h
 atom.o: ../../.././exports/include/X11/Xosdefs.h
 atom.o: ../../.././exports/include/X11/Xfuncproto.h
 atom.o: ../../.././exports/include/X11/X.h
-atom.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+atom.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 atom.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 atom.o: /usr/include/string.h /usr/include/features.h
 atom.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -808,7 +808,7 @@ colormap.o: ../../.././exports/include/X11/Xprotostr.h ../include/misc.h
 colormap.o: ../../.././exports/include/X11/Xosdefs.h
 colormap.o: ../../.././exports/include/X11/Xfuncproto.h
 colormap.o: ../../.././exports/include/X11/X.h
-colormap.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+colormap.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 colormap.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 colormap.o: /usr/include/string.h /usr/include/features.h
 colormap.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -829,7 +829,7 @@ cursor.o: ../include/scrnintstr.h ../include/screenint.h ../include/misc.h
 cursor.o: ../../.././exports/include/X11/Xosdefs.h
 cursor.o: ../../.././exports/include/X11/Xfuncproto.h
 cursor.o: ../../.././exports/include/X11/X.h
-cursor.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+cursor.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 cursor.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 cursor.o: /usr/include/string.h /usr/include/features.h
 cursor.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -850,7 +850,7 @@ devices.o: ../../.././exports/include/X11/Xmd.h ../include/misc.h
 devices.o: ../../.././exports/include/X11/Xosdefs.h
 devices.o: ../../.././exports/include/X11/Xfuncproto.h
 devices.o: ../../.././exports/include/X11/X.h
-devices.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+devices.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 devices.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 devices.o: /usr/include/string.h /usr/include/features.h
 devices.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -872,7 +872,7 @@ dispatch.o: ../../.././exports/include/X11/Xosdefs.h
 dispatch.o: ../../.././exports/include/X11/Xfuncproto.h
 dispatch.o: ../../.././exports/include/X11/Xmd.h
 dispatch.o: ../../.././exports/include/X11/X.h
-dispatch.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+dispatch.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 dispatch.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 dispatch.o: /usr/include/string.h /usr/include/features.h
 dispatch.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -901,7 +901,7 @@ dixutils.o: ../../.././exports/include/X11/Xmd.h ../include/misc.h
 dixutils.o: ../../.././exports/include/X11/Xosdefs.h
 dixutils.o: ../../.././exports/include/X11/Xfuncproto.h
 dixutils.o: ../../.././exports/include/X11/X.h
-dixutils.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+dixutils.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 dixutils.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 dixutils.o: /usr/include/string.h /usr/include/features.h
 dixutils.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -921,7 +921,7 @@ events.o: ../../.././exports/include/X11/Xmd.h ../include/misc.h
 events.o: ../../.././exports/include/X11/Xosdefs.h
 events.o: ../../.././exports/include/X11/Xfuncproto.h
 events.o: ../../.././exports/include/X11/X.h
-events.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+events.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 events.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 events.o: /usr/include/string.h /usr/include/features.h
 events.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -947,7 +947,7 @@ extension.o: ../../.././exports/include/X11/Xprotostr.h ../include/misc.h
 extension.o: ../../.././exports/include/X11/Xosdefs.h
 extension.o: ../../.././exports/include/X11/Xfuncproto.h
 extension.o: ../../.././exports/include/X11/X.h
-extension.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+extension.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 extension.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 extension.o: /usr/include/string.h /usr/include/features.h
 extension.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -969,7 +969,7 @@ gc.o: ../../.././exports/include/X11/Xprotostr.h ../include/misc.h
 gc.o: ../../.././exports/include/X11/Xosdefs.h
 gc.o: ../../.././exports/include/X11/Xfuncproto.h
 gc.o: ../../.././exports/include/X11/X.h
-gc.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h ../include/os.h
+gc.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h ../include/os.h
 gc.o: ../../.././exports/include/X11/Xalloca.h /usr/include/string.h
 gc.o: /usr/include/features.h /usr/include/sys/cdefs.h
 gc.o: /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h
@@ -991,7 +991,7 @@ globals.o: ../../.././exports/include/X11/Xmd.h ../include/misc.h
 globals.o: ../../.././exports/include/X11/Xosdefs.h
 globals.o: ../../.././exports/include/X11/Xfuncproto.h
 globals.o: ../../.././exports/include/X11/X.h
-globals.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+globals.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 globals.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 globals.o: /usr/include/string.h /usr/include/features.h
 globals.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -1011,7 +1011,7 @@ glyphcurs.o: ../include/misc.h ../../.././exports/include/X11/Xosdefs.h
 glyphcurs.o: ../../.././exports/include/X11/Xfuncproto.h
 glyphcurs.o: ../../.././exports/include/X11/Xmd.h
 glyphcurs.o: ../../.././exports/include/X11/X.h
-glyphcurs.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+glyphcurs.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 glyphcurs.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 glyphcurs.o: /usr/include/string.h /usr/include/features.h
 glyphcurs.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -1035,7 +1035,7 @@ grabs.o: ../../.././exports/include/X11/Xmd.h ../include/misc.h
 grabs.o: ../../.././exports/include/X11/Xosdefs.h
 grabs.o: ../../.././exports/include/X11/Xfuncproto.h
 grabs.o: ../../.././exports/include/X11/X.h
-grabs.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+grabs.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 grabs.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 grabs.o: /usr/include/string.h /usr/include/features.h
 grabs.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -1058,7 +1058,7 @@ main.o: ../include/screenint.h ../include/misc.h
 main.o: ../../.././exports/include/X11/Xosdefs.h
 main.o: ../../.././exports/include/X11/Xfuncproto.h
 main.o: ../../.././exports/include/X11/X.h
-main.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+main.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 main.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 main.o: /usr/include/string.h /usr/include/features.h
 main.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -1084,7 +1084,7 @@ property.o: ../include/window.h ../include/misc.h
 property.o: ../../.././exports/include/X11/Xosdefs.h
 property.o: ../../.././exports/include/X11/Xfuncproto.h
 property.o: ../../.././exports/include/X11/X.h
-property.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+property.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 property.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 property.o: /usr/include/string.h /usr/include/features.h
 property.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -1102,7 +1102,7 @@ resource.o: ../../.././exports/include/X11/Xmd.h ../include/misc.h
 resource.o: ../../.././exports/include/X11/Xosdefs.h
 resource.o: ../../.././exports/include/X11/Xfuncproto.h
 resource.o: ../../.././exports/include/X11/X.h
-resource.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+resource.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 resource.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 resource.o: /usr/include/string.h /usr/include/features.h
 resource.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -1127,7 +1127,7 @@ swaprep.o: ../../.././exports/include/X11/Xprotostr.h ../include/misc.h
 swaprep.o: ../../.././exports/include/X11/Xosdefs.h
 swaprep.o: ../../.././exports/include/X11/Xfuncproto.h
 swaprep.o: ../../.././exports/include/X11/X.h
-swaprep.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+swaprep.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 swaprep.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 swaprep.o: /usr/include/string.h /usr/include/features.h
 swaprep.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -1150,7 +1150,7 @@ swapreq.o: ../../.././exports/include/X11/Xprotostr.h ../include/misc.h
 swapreq.o: ../../.././exports/include/X11/Xosdefs.h
 swapreq.o: ../../.././exports/include/X11/Xfuncproto.h
 swapreq.o: ../../.././exports/include/X11/X.h
-swapreq.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+swapreq.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 swapreq.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 swapreq.o: /usr/include/string.h /usr/include/features.h
 swapreq.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -1170,7 +1170,7 @@ tables.o: ../include/window.h ../include/misc.h
 tables.o: ../../.././exports/include/X11/Xosdefs.h
 tables.o: ../../.././exports/include/X11/Xfuncproto.h
 tables.o: ../../.././exports/include/X11/X.h
-tables.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+tables.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 tables.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 tables.o: /usr/include/string.h /usr/include/features.h
 tables.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -1187,7 +1187,7 @@ window.o: ../include/misc.h ../../.././exports/include/X11/Xosdefs.h
 window.o: ../../.././exports/include/X11/Xfuncproto.h
 window.o: ../../.././exports/include/X11/Xmd.h
 window.o: ../../.././exports/include/X11/X.h
-window.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+window.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 window.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 window.o: /usr/include/string.h /usr/include/features.h
 window.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -1210,7 +1210,7 @@ initatoms.o: ../../.././exports/include/X11/Xatom.h ../include/misc.h
 initatoms.o: ../../.././exports/include/X11/Xosdefs.h
 initatoms.o: ../../.././exports/include/X11/Xfuncproto.h
 initatoms.o: ../../.././exports/include/X11/X.h
-initatoms.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+initatoms.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 initatoms.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 initatoms.o: /usr/include/string.h /usr/include/features.h
 initatoms.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -1230,7 +1230,7 @@ dixfonts.o: ../include/scrnintstr.h ../include/screenint.h ../include/misc.h
 dixfonts.o: ../../.././exports/include/X11/Xosdefs.h
 dixfonts.o: ../../.././exports/include/X11/Xfuncproto.h
 dixfonts.o: ../../.././exports/include/X11/X.h
-dixfonts.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+dixfonts.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 dixfonts.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 dixfonts.o: /usr/include/string.h /usr/include/features.h
 dixfonts.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -1253,7 +1253,7 @@ privates.o: ../include/screenint.h ../include/misc.h
 privates.o: ../../.././exports/include/X11/Xosdefs.h
 privates.o: ../../.././exports/include/X11/Xfuncproto.h
 privates.o: ../../.././exports/include/X11/X.h
-privates.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+privates.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 privates.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 privates.o: /usr/include/string.h /usr/include/features.h
 privates.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -1274,7 +1274,7 @@ pixmap.o: ../include/screenint.h ../include/misc.h
 pixmap.o: ../../.././exports/include/X11/Xosdefs.h
 pixmap.o: ../../.././exports/include/X11/Xfuncproto.h
 pixmap.o: ../../.././exports/include/X11/X.h
-pixmap.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+pixmap.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 pixmap.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 pixmap.o: /usr/include/string.h /usr/include/features.h
 pixmap.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h

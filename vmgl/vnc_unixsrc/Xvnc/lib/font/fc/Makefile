@@ -732,7 +732,7 @@ fsconvert.o: ../../.././exports/include/X11/Xosdefs.h /usr/include/string.h
 fsconvert.o: /usr/include/features.h /usr/include/sys/cdefs.h
 fsconvert.o: /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h
 fsconvert.o: /usr/include/gnu/stubs-64.h
-fsconvert.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+fsconvert.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 fsconvert.o: ../../.././include/fonts/fontstruct.h
 fsconvert.o: ../../.././exports/include/X11/Xproto.h
 fsconvert.o: ../../.././exports/include/X11/Xprotostr.h
@@ -747,7 +747,7 @@ fserve.o: /usr/include/features.h /usr/include/sys/cdefs.h
 fserve.o: /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h
 fserve.o: /usr/include/gnu/stubs-64.h /usr/include/bits/types.h
 fserve.o: /usr/include/bits/typesizes.h /usr/include/time.h
-fserve.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+fserve.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 fserve.o: /usr/include/endian.h /usr/include/bits/endian.h
 fserve.o: /usr/include/bits/byteswap.h /usr/include/sys/select.h
 fserve.o: /usr/include/bits/select.h /usr/include/bits/sigset.h
@@ -781,7 +781,7 @@ fsio.o: /usr/include/features.h /usr/include/sys/cdefs.h
 fsio.o: /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h
 fsio.o: /usr/include/gnu/stubs-64.h /usr/include/bits/types.h
 fsio.o: /usr/include/bits/typesizes.h /usr/include/time.h
-fsio.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+fsio.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 fsio.o: /usr/include/endian.h /usr/include/bits/endian.h
 fsio.o: /usr/include/bits/byteswap.h /usr/include/sys/select.h
 fsio.o: /usr/include/bits/select.h /usr/include/bits/sigset.h
@@ -796,7 +796,7 @@ fsio.o: /usr/include/bits/uio.h ../../.././exports/include/X11/Xpoll.h
 fsio.o: ../include/fontmisc.h ../../.././exports/include/X11/Xfuncs.h fsio.h
 fsio.o: /usr/include/stdio.h /usr/include/libio.h /usr/include/_G_config.h
 fsio.o: /usr/include/wchar.h
-fsio.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stdarg.h
+fsio.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stdarg.h
 fsio.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
 fsio.o: /usr/include/signal.h /usr/include/bits/signum.h
 fsio.o: /usr/include/bits/siginfo.h /usr/include/bits/sigaction.h
@@ -812,7 +812,7 @@ fsio.o: /usr/include/asm-generic/errno-base.h
 transport.o: /usr/include/stdlib.h /usr/include/features.h
 transport.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
 transport.o: /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h
-transport.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+transport.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h
 transport.o: /usr/include/bits/waitflags.h /usr/include/bits/waitstatus.h
 transport.o: /usr/include/endian.h /usr/include/bits/endian.h
 transport.o: /usr/include/bits/byteswap.h /usr/include/sys/types.h
@@ -833,7 +833,7 @@ transport.o: /usr/include/sys/time.h /usr/include/sys/uio.h
 transport.o: /usr/include/bits/uio.h /usr/include/stdio.h
 transport.o: /usr/include/libio.h /usr/include/_G_config.h
 transport.o: /usr/include/wchar.h
-transport.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stdarg.h
+transport.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stdarg.h
 transport.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
 transport.o: /usr/include/errno.h /usr/include/bits/errno.h
 transport.o: /usr/include/linux/errno.h /usr/include/asm/errno.h
