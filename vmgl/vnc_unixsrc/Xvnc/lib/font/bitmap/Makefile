@@ -710,7 +710,7 @@ bdfread.o: /usr/include/bits/byteswap.h ../include/fntfilst.h
 bdfread.o: ../../.././exports/include/X11/Xos.h
 bdfread.o: ../../.././exports/include/X11/Xosdefs.h /usr/include/sys/types.h
 bdfread.o: /usr/include/time.h
-bdfread.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+bdfread.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 bdfread.o: /usr/include/sys/select.h /usr/include/bits/select.h
 bdfread.o: /usr/include/bits/sigset.h /usr/include/bits/time.h
 bdfread.o: /usr/include/sys/sysmacros.h /usr/include/bits/pthreadtypes.h
@@ -730,7 +730,7 @@ bdfread.o: ../include/fontxlfd.h ../../.././include/fonts/FSproto.h
 bdfread.o: ../../.././include/fonts/FS.h ../include/bitmap.h
 bdfread.o: ../include/fntfilio.h ../include/bufio.h /usr/include/stdio.h
 bdfread.o: /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h
-bdfread.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stdarg.h
+bdfread.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h
 bdfread.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
 bdfread.o: bdfint.h
 bdfutils.o: /usr/include/ctype.h /usr/include/features.h
@@ -739,10 +739,10 @@ bdfutils.o: /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h
 bdfutils.o: /usr/include/bits/types.h /usr/include/bits/typesizes.h
 bdfutils.o: /usr/include/endian.h /usr/include/bits/endian.h
 bdfutils.o: /usr/include/bits/byteswap.h /usr/include/stdio.h
-bdfutils.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+bdfutils.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 bdfutils.o: /usr/include/libio.h /usr/include/_G_config.h
 bdfutils.o: /usr/include/wchar.h
-bdfutils.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stdarg.h
+bdfutils.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h
 bdfutils.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
 bdfutils.o: /usr/include/getopt.h ../include/fntfilst.h
 bdfutils.o: ../../.././exports/include/X11/Xos.h
@@ -772,7 +772,7 @@ bitmap.o: /usr/include/features.h /usr/include/sys/cdefs.h
 bitmap.o: /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h
 bitmap.o: /usr/include/gnu/stubs-64.h /usr/include/bits/types.h
 bitmap.o: /usr/include/bits/typesizes.h /usr/include/time.h
-bitmap.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+bitmap.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 bitmap.o: /usr/include/endian.h /usr/include/bits/endian.h
 bitmap.o: /usr/include/bits/byteswap.h /usr/include/sys/select.h
 bitmap.o: /usr/include/bits/select.h /usr/include/bits/sigset.h
@@ -794,7 +794,7 @@ bitmap.o: ../include/fontxlfd.h ../../.././include/fonts/FSproto.h
 bitmap.o: ../../.././include/fonts/FS.h ../include/bitmap.h
 bitmap.o: ../include/fntfilio.h ../include/bufio.h /usr/include/stdio.h
 bitmap.o: /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h
-bitmap.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stdarg.h
+bitmap.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h
 bitmap.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
 bitmaputil.o: ../include/fntfilst.h ../../.././exports/include/X11/Xos.h
 bitmaputil.o: ../../.././exports/include/X11/Xosdefs.h
@@ -803,7 +803,7 @@ bitmaputil.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
 bitmaputil.o: /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h
 bitmaputil.o: /usr/include/bits/types.h /usr/include/bits/typesizes.h
 bitmaputil.o: /usr/include/time.h
-bitmaputil.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+bitmaputil.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 bitmaputil.o: /usr/include/endian.h /usr/include/bits/endian.h
 bitmaputil.o: /usr/include/bits/byteswap.h /usr/include/sys/select.h
 bitmaputil.o: /usr/include/bits/select.h /usr/include/bits/sigset.h
@@ -827,7 +827,7 @@ bitmaputil.o: ../../.././include/fonts/FS.h ../include/bitmap.h
 bitmaputil.o: ../include/fntfilio.h ../include/bufio.h /usr/include/stdio.h
 bitmaputil.o: /usr/include/libio.h /usr/include/_G_config.h
 bitmaputil.o: /usr/include/wchar.h
-bitmaputil.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stdarg.h
+bitmaputil.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h
 bitmaputil.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
 bitscale.o: ../include/fntfilst.h ../../.././exports/include/X11/Xos.h
 bitscale.o: ../../.././exports/include/X11/Xosdefs.h /usr/include/sys/types.h
@@ -835,7 +835,7 @@ bitscale.o: /usr/include/features.h /usr/include/sys/cdefs.h
 bitscale.o: /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h
 bitscale.o: /usr/include/gnu/stubs-64.h /usr/include/bits/types.h
 bitscale.o: /usr/include/bits/typesizes.h /usr/include/time.h
-bitscale.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+bitscale.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 bitscale.o: /usr/include/endian.h /usr/include/bits/endian.h
 bitscale.o: /usr/include/bits/byteswap.h /usr/include/sys/select.h
 bitscale.o: /usr/include/bits/select.h /usr/include/bits/sigset.h
@@ -859,7 +859,7 @@ bitscale.o: ../../.././include/fonts/FS.h ../include/bitmap.h
 bitscale.o: ../include/fntfilio.h ../include/bufio.h /usr/include/stdio.h
 bitscale.o: /usr/include/libio.h /usr/include/_G_config.h
 bitscale.o: /usr/include/wchar.h
-bitscale.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stdarg.h
+bitscale.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h
 bitscale.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
 bitscale.o: /usr/include/math.h /usr/include/bits/huge_val.h
 bitscale.o: /usr/include/bits/mathdef.h /usr/include/bits/mathcalls.h
@@ -870,7 +870,7 @@ bitmapfunc.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
 bitmapfunc.o: /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h
 bitmapfunc.o: /usr/include/bits/types.h /usr/include/bits/typesizes.h
 bitmapfunc.o: /usr/include/time.h
-bitmapfunc.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+bitmapfunc.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 bitmapfunc.o: /usr/include/endian.h /usr/include/bits/endian.h
 bitmapfunc.o: /usr/include/bits/byteswap.h /usr/include/sys/select.h
 bitmapfunc.o: /usr/include/bits/select.h /usr/include/bits/sigset.h
@@ -894,7 +894,7 @@ bitmapfunc.o: ../../.././include/fonts/FS.h ../include/bitmap.h
 bitmapfunc.o: ../include/fntfilio.h ../include/bufio.h /usr/include/stdio.h
 bitmapfunc.o: /usr/include/libio.h /usr/include/_G_config.h
 bitmapfunc.o: /usr/include/wchar.h
-bitmapfunc.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stdarg.h
+bitmapfunc.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h
 bitmapfunc.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
 pcfread.o: ../include/fntfilst.h ../../.././exports/include/X11/Xos.h
 pcfread.o: ../../.././exports/include/X11/Xosdefs.h /usr/include/sys/types.h
@@ -902,7 +902,7 @@ pcfread.o: /usr/include/features.h /usr/include/sys/cdefs.h
 pcfread.o: /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h
 pcfread.o: /usr/include/gnu/stubs-64.h /usr/include/bits/types.h
 pcfread.o: /usr/include/bits/typesizes.h /usr/include/time.h
-pcfread.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+pcfread.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 pcfread.o: /usr/include/endian.h /usr/include/bits/endian.h
 pcfread.o: /usr/include/bits/byteswap.h /usr/include/sys/select.h
 pcfread.o: /usr/include/bits/select.h /usr/include/bits/sigset.h
@@ -924,7 +924,7 @@ pcfread.o: ../include/fontxlfd.h ../../.././include/fonts/FSproto.h
 pcfread.o: ../../.././include/fonts/FS.h ../include/bitmap.h
 pcfread.o: ../include/fntfilio.h ../include/bufio.h /usr/include/stdio.h
 pcfread.o: /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h
-pcfread.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stdarg.h
+pcfread.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h
 pcfread.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
 pcfread.o: pcf.h
 pcfwrite.o: ../include/fntfilst.h ../../.././exports/include/X11/Xos.h
@@ -933,7 +933,7 @@ pcfwrite.o: /usr/include/features.h /usr/include/sys/cdefs.h
 pcfwrite.o: /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h
 pcfwrite.o: /usr/include/gnu/stubs-64.h /usr/include/bits/types.h
 pcfwrite.o: /usr/include/bits/typesizes.h /usr/include/time.h
-pcfwrite.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+pcfwrite.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 pcfwrite.o: /usr/include/endian.h /usr/include/bits/endian.h
 pcfwrite.o: /usr/include/bits/byteswap.h /usr/include/sys/select.h
 pcfwrite.o: /usr/include/bits/select.h /usr/include/bits/sigset.h
@@ -957,7 +957,7 @@ pcfwrite.o: ../../.././include/fonts/FS.h ../include/bitmap.h
 pcfwrite.o: ../include/fntfilio.h ../include/bufio.h /usr/include/stdio.h
 pcfwrite.o: /usr/include/libio.h /usr/include/_G_config.h
 pcfwrite.o: /usr/include/wchar.h
-pcfwrite.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stdarg.h
+pcfwrite.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h
 pcfwrite.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
 pcfwrite.o: pcf.h
 snfread.o: /usr/include/ctype.h /usr/include/features.h
@@ -969,7 +969,7 @@ snfread.o: /usr/include/bits/byteswap.h ../include/fntfilst.h
 snfread.o: ../../.././exports/include/X11/Xos.h
 snfread.o: ../../.././exports/include/X11/Xosdefs.h /usr/include/sys/types.h
 snfread.o: /usr/include/time.h
-snfread.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+snfread.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 snfread.o: /usr/include/sys/select.h /usr/include/bits/select.h
 snfread.o: /usr/include/bits/sigset.h /usr/include/bits/time.h
 snfread.o: /usr/include/sys/sysmacros.h /usr/include/bits/pthreadtypes.h
@@ -989,7 +989,7 @@ snfread.o: ../include/fontxlfd.h ../../.././include/fonts/FSproto.h
 snfread.o: ../../.././include/fonts/FS.h ../include/bitmap.h
 snfread.o: ../include/fntfilio.h ../include/bufio.h /usr/include/stdio.h
 snfread.o: /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h
-snfread.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stdarg.h
+snfread.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h
 snfread.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
 snfread.o: snfstr.h
 fontink.o: ../include/fntfilst.h ../../.././exports/include/X11/Xos.h
@@ -998,7 +998,7 @@ fontink.o: /usr/include/features.h /usr/include/sys/cdefs.h
 fontink.o: /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h
 fontink.o: /usr/include/gnu/stubs-64.h /usr/include/bits/types.h
 fontink.o: /usr/include/bits/typesizes.h /usr/include/time.h
-fontink.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+fontink.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 fontink.o: /usr/include/endian.h /usr/include/bits/endian.h
 fontink.o: /usr/include/bits/byteswap.h /usr/include/sys/select.h
 fontink.o: /usr/include/bits/select.h /usr/include/bits/sigset.h

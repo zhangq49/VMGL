@@ -3,13 +3,13 @@ hal.lo: hal.c ../include/dix-config.h /usr/include/dbus-1.0/dbus/dbus.h \
  /usr/include/dbus-1.0/dbus/dbus-macros.h \
  /usr/include/dbus-1.0/dbus/dbus-address.h \
  /usr/include/dbus-1.0/dbus/dbus-types.h \
- /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h \
  /usr/include/dbus-1.0/dbus/dbus-errors.h \
  /usr/include/dbus-1.0/dbus/dbus-bus.h \
  /usr/include/dbus-1.0/dbus/dbus-connection.h \
  /usr/include/dbus-1.0/dbus/dbus-memory.h \
  /usr/include/dbus-1.0/dbus/dbus-message.h \
- /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stdarg.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h \
  /usr/include/dbus-1.0/dbus/dbus-shared.h \
  /usr/include/dbus-1.0/dbus/dbus-misc.h \
  /usr/include/dbus-1.0/dbus/dbus-pending-call.h \
@@ -36,8 +36,8 @@ hal.lo: hal.c ../include/dix-config.h /usr/include/dbus-1.0/dbus/dbus.h \
  /usr/include/bits/waitstatus.h /usr/include/sys/types.h \
  /usr/include/sys/sysmacros.h /usr/include/bits/pthreadtypes.h \
  /usr/include/alloca.h \
- /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/limits.h \
- /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/syslimits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/syslimits.h \
  /usr/include/limits.h /usr/include/bits/posix1_lim.h \
  /usr/include/bits/local_lim.h /usr/include/linux/limits.h \
  /usr/include/bits/posix2_lim.h /usr/include/bits/xopen_lim.h \
@@ -71,7 +71,7 @@ hal.lo: hal.c ../include/dix-config.h /usr/include/dbus-1.0/dbus/dbus.h \
 
 /usr/include/dbus-1.0/dbus/dbus-types.h:
 
-/usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
 /usr/include/dbus-1.0/dbus/dbus-errors.h:
 
@@ -83,7 +83,7 @@ hal.lo: hal.c ../include/dix-config.h /usr/include/dbus-1.0/dbus/dbus.h \
 
 /usr/include/dbus-1.0/dbus/dbus-message.h:
 
-/usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stdarg.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h:
 
 /usr/include/dbus-1.0/dbus/dbus-shared.h:
 
@@ -185,9 +185,9 @@ hal.lo: hal.c ../include/dix-config.h /usr/include/dbus-1.0/dbus/dbus.h \
 
 /usr/include/alloca.h:
 
-/usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/limits.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h:
 
-/usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/syslimits.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/syslimits.h:
 
 /usr/include/limits.h:
 

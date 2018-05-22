@@ -4,9 +4,9 @@ dmxshadow.o: dmxshadow.c dmx-config.h ../../include/dix-config.h dmx.h \
  /usr/include/X11/Xproto.h /usr/include/X11/Xprotostr.h \
  ../../include/screenint.h ../../include/misc.h \
  /usr/include/X11/Xosdefs.h /usr/include/X11/Xfuncproto.h \
- /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h \
  ../../include/os.h \
- /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stdarg.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h \
  /usr/include/stdio.h /usr/include/features.h /usr/include/sys/cdefs.h \
  /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
  /usr/include/gnu/stubs-64.h /usr/include/bits/types.h \
@@ -23,8 +23,8 @@ dmxshadow.o: dmxshadow.c dmx-config.h ../../include/dix-config.h dmx.h \
  /usr/include/bits/sigset.h /usr/include/bits/time.h \
  /usr/include/sys/sysmacros.h /usr/include/bits/pthreadtypes.h \
  /usr/include/alloca.h \
- /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/limits.h \
- /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/syslimits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/syslimits.h \
  /usr/include/limits.h /usr/include/bits/posix1_lim.h \
  /usr/include/bits/local_lim.h /usr/include/linux/limits.h \
  /usr/include/bits/posix2_lim.h /usr/include/bits/xopen_lim.h \
@@ -100,11 +100,11 @@ dmx.h:
 
 /usr/include/X11/Xfuncproto.h:
 
-/usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
 ../../include/os.h:
 
-/usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stdarg.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h:
 
 /usr/include/stdio.h:
 
@@ -174,9 +174,9 @@ dmx.h:
 
 /usr/include/alloca.h:
 
-/usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/limits.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h:
 
-/usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/syslimits.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/syslimits.h:
 
 /usr/include/limits.h:
 

@@ -714,7 +714,7 @@ dirfile.o: /usr/include/features.h /usr/include/sys/cdefs.h
 dirfile.o: /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h
 dirfile.o: /usr/include/gnu/stubs-64.h /usr/include/bits/types.h
 dirfile.o: /usr/include/bits/typesizes.h /usr/include/time.h
-dirfile.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+dirfile.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 dirfile.o: /usr/include/endian.h /usr/include/bits/endian.h
 dirfile.o: /usr/include/bits/byteswap.h /usr/include/sys/select.h
 dirfile.o: /usr/include/bits/select.h /usr/include/bits/sigset.h
@@ -735,7 +735,7 @@ dirfile.o: ../../.././exports/include/X11/Xfuncproto.h ../include/fntfil.h
 dirfile.o: ../include/fontxlfd.h ../../.././include/fonts/FSproto.h
 dirfile.o: ../../.././include/fonts/FS.h /usr/include/stdio.h
 dirfile.o: /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h
-dirfile.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stdarg.h
+dirfile.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h
 dirfile.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
 dirfile.o: /usr/include/sys/stat.h /usr/include/errno.h
 dirfile.o: /usr/include/bits/errno.h /usr/include/linux/errno.h
@@ -747,7 +747,7 @@ fontdir.o: /usr/include/features.h /usr/include/sys/cdefs.h
 fontdir.o: /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h
 fontdir.o: /usr/include/gnu/stubs-64.h /usr/include/bits/types.h
 fontdir.o: /usr/include/bits/typesizes.h /usr/include/time.h
-fontdir.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+fontdir.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 fontdir.o: /usr/include/endian.h /usr/include/bits/endian.h
 fontdir.o: /usr/include/bits/byteswap.h /usr/include/sys/select.h
 fontdir.o: /usr/include/bits/select.h /usr/include/bits/sigset.h
@@ -775,7 +775,7 @@ fontfile.o: /usr/include/features.h /usr/include/sys/cdefs.h
 fontfile.o: /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h
 fontfile.o: /usr/include/gnu/stubs-64.h /usr/include/bits/types.h
 fontfile.o: /usr/include/bits/typesizes.h /usr/include/time.h
-fontfile.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+fontfile.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 fontfile.o: /usr/include/endian.h /usr/include/bits/endian.h
 fontfile.o: /usr/include/bits/byteswap.h /usr/include/sys/select.h
 fontfile.o: /usr/include/bits/select.h /usr/include/bits/sigset.h
@@ -803,7 +803,7 @@ fileio.o: /usr/include/features.h /usr/include/sys/cdefs.h
 fileio.o: /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h
 fileio.o: /usr/include/gnu/stubs-64.h /usr/include/bits/types.h
 fileio.o: /usr/include/bits/typesizes.h /usr/include/time.h
-fileio.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+fileio.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 fileio.o: /usr/include/endian.h /usr/include/bits/endian.h
 fileio.o: /usr/include/bits/byteswap.h /usr/include/sys/select.h
 fileio.o: /usr/include/bits/select.h /usr/include/bits/sigset.h
@@ -821,7 +821,7 @@ fontscale.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
 fontscale.o: /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h
 fontscale.o: /usr/include/bits/types.h /usr/include/bits/typesizes.h
 fontscale.o: /usr/include/time.h
-fontscale.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+fontscale.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 fontscale.o: /usr/include/endian.h /usr/include/bits/endian.h
 fontscale.o: /usr/include/bits/byteswap.h /usr/include/sys/select.h
 fontscale.o: /usr/include/bits/select.h /usr/include/bits/sigset.h
@@ -856,7 +856,7 @@ bitsource.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
 bitsource.o: /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h
 bitsource.o: /usr/include/bits/types.h /usr/include/bits/typesizes.h
 bitsource.o: /usr/include/time.h
-bitsource.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+bitsource.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 bitsource.o: /usr/include/endian.h /usr/include/bits/endian.h
 bitsource.o: /usr/include/bits/byteswap.h /usr/include/sys/select.h
 bitsource.o: /usr/include/bits/select.h /usr/include/bits/sigset.h
@@ -884,7 +884,7 @@ renderers.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
 renderers.o: /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h
 renderers.o: /usr/include/bits/types.h /usr/include/bits/typesizes.h
 renderers.o: /usr/include/time.h
-renderers.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+renderers.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 renderers.o: /usr/include/endian.h /usr/include/bits/endian.h
 renderers.o: /usr/include/bits/byteswap.h /usr/include/sys/select.h
 renderers.o: /usr/include/bits/select.h /usr/include/bits/sigset.h
@@ -911,7 +911,7 @@ bufio.o: /usr/include/features.h /usr/include/sys/cdefs.h
 bufio.o: /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h
 bufio.o: /usr/include/gnu/stubs-64.h /usr/include/bits/types.h
 bufio.o: /usr/include/bits/typesizes.h /usr/include/time.h
-bufio.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+bufio.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 bufio.o: /usr/include/endian.h /usr/include/bits/endian.h
 bufio.o: /usr/include/bits/byteswap.h /usr/include/sys/select.h
 bufio.o: /usr/include/bits/select.h /usr/include/bits/sigset.h
@@ -933,7 +933,7 @@ decompress.o: ../../.././exports/include/X11/Xosdefs.h /usr/include/string.h
 decompress.o: /usr/include/features.h /usr/include/sys/cdefs.h
 decompress.o: /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h
 decompress.o: /usr/include/gnu/stubs-64.h
-decompress.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+decompress.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 decompress.o: ../../.././exports/include/X11/Xmd.h ../include/bufio.h
 filewr.o: ../include/fntfilio.h ../include/bufio.h
 filewr.o: ../../.././exports/include/X11/Xos.h
@@ -942,7 +942,7 @@ filewr.o: /usr/include/features.h /usr/include/sys/cdefs.h
 filewr.o: /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h
 filewr.o: /usr/include/gnu/stubs-64.h /usr/include/bits/types.h
 filewr.o: /usr/include/bits/typesizes.h /usr/include/time.h
-filewr.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+filewr.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 filewr.o: /usr/include/endian.h /usr/include/bits/endian.h
 filewr.o: /usr/include/bits/byteswap.h /usr/include/sys/select.h
 filewr.o: /usr/include/bits/select.h /usr/include/bits/sigset.h
@@ -960,7 +960,7 @@ printerfont.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
 printerfont.o: /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h
 printerfont.o: /usr/include/bits/types.h /usr/include/bits/typesizes.h
 printerfont.o: /usr/include/time.h
-printerfont.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+printerfont.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 printerfont.o: /usr/include/endian.h /usr/include/bits/endian.h
 printerfont.o: /usr/include/bits/byteswap.h /usr/include/sys/select.h
 printerfont.o: /usr/include/bits/select.h /usr/include/bits/sigset.h
@@ -988,7 +988,7 @@ ffcheck.o: /usr/include/features.h /usr/include/sys/cdefs.h
 ffcheck.o: /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h
 ffcheck.o: /usr/include/gnu/stubs-64.h /usr/include/bits/types.h
 ffcheck.o: /usr/include/bits/typesizes.h /usr/include/time.h
-ffcheck.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+ffcheck.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 ffcheck.o: /usr/include/endian.h /usr/include/bits/endian.h
 ffcheck.o: /usr/include/bits/byteswap.h /usr/include/sys/select.h
 ffcheck.o: /usr/include/bits/select.h /usr/include/bits/sigset.h
@@ -1013,7 +1013,7 @@ gunzip.o: ../../.././exports/include/X11/Xosdefs.h /usr/include/string.h
 gunzip.o: /usr/include/features.h /usr/include/sys/cdefs.h
 gunzip.o: /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h
 gunzip.o: /usr/include/gnu/stubs-64.h
-gunzip.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+gunzip.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 gunzip.o: ../../.././exports/include/X11/Xmd.h ../include/bufio.h
 gunzip.o: /usr/include/zlib.h /usr/include/zconf.h /usr/include/sys/types.h
 gunzip.o: /usr/include/bits/types.h /usr/include/bits/typesizes.h

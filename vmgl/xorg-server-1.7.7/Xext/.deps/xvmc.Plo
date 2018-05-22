@@ -2,7 +2,7 @@ xvmc.lo: xvmc.c ../include/dix-config.h /usr/include/string.h \
  /usr/include/features.h /usr/include/sys/cdefs.h \
  /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
  /usr/include/gnu/stubs-64.h \
- /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h \
  /usr/include/xlocale.h /usr/include/bits/string.h \
  /usr/include/bits/string2.h /usr/include/endian.h \
  /usr/include/bits/endian.h /usr/include/bits/byteswap.h \
@@ -11,7 +11,7 @@ xvmc.lo: xvmc.c ../include/dix-config.h /usr/include/string.h \
  /usr/include/X11/Xproto.h /usr/include/X11/Xprotostr.h ../include/misc.h \
  /usr/include/X11/Xosdefs.h /usr/include/X11/Xfuncproto.h \
  /usr/include/X11/Xdefs.h ../include/os.h ../include/misc.h \
- /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stdarg.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h \
  /usr/include/stdio.h /usr/include/libio.h /usr/include/_G_config.h \
  /usr/include/wchar.h /usr/include/bits/stdio_lim.h \
  /usr/include/bits/sys_errlist.h /usr/include/bits/stdio.h \
@@ -21,8 +21,8 @@ xvmc.lo: xvmc.c ../include/dix-config.h /usr/include/string.h \
  /usr/include/bits/sigset.h /usr/include/bits/time.h \
  /usr/include/sys/sysmacros.h /usr/include/bits/pthreadtypes.h \
  /usr/include/alloca.h \
- /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/limits.h \
- /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/syslimits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/syslimits.h \
  /usr/include/limits.h /usr/include/bits/posix1_lim.h \
  /usr/include/bits/local_lim.h /usr/include/linux/limits.h \
  /usr/include/bits/posix2_lim.h /usr/include/bits/xopen_lim.h \
@@ -62,7 +62,7 @@ xvmc.lo: xvmc.c ../include/dix-config.h /usr/include/string.h \
 
 /usr/include/gnu/stubs-64.h:
 
-/usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
 /usr/include/xlocale.h:
 
@@ -102,7 +102,7 @@ xvmc.lo: xvmc.c ../include/dix-config.h /usr/include/string.h \
 
 ../include/misc.h:
 
-/usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stdarg.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h:
 
 /usr/include/stdio.h:
 
@@ -142,9 +142,9 @@ xvmc.lo: xvmc.c ../include/dix-config.h /usr/include/string.h \
 
 /usr/include/alloca.h:
 
-/usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/limits.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h:
 
-/usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/syslimits.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/syslimits.h:
 
 /usr/include/limits.h:
 

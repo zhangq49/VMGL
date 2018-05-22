@@ -4,7 +4,7 @@ xdmcp.lo: xdmcp.c ../include/dix-config.h /usr/include/X11/Xos.h \
  /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
  /usr/include/gnu/stubs-64.h /usr/include/bits/types.h \
  /usr/include/bits/typesizes.h /usr/include/time.h \
- /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h \
  /usr/include/endian.h /usr/include/bits/endian.h \
  /usr/include/bits/byteswap.h /usr/include/sys/select.h \
  /usr/include/bits/select.h /usr/include/bits/sigset.h \
@@ -18,8 +18,8 @@ xdmcp.lo: xdmcp.c ../include/dix-config.h /usr/include/X11/Xos.h \
  /usr/include/bits/confname.h /usr/include/getopt.h \
  /usr/include/sys/time.h /usr/include/X11/Xarch.h \
  /usr/include/sys/param.h \
- /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/limits.h \
- /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/syslimits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/syslimits.h \
  /usr/include/limits.h /usr/include/bits/posix1_lim.h \
  /usr/include/bits/local_lim.h /usr/include/linux/limits.h \
  /usr/include/bits/posix2_lim.h /usr/include/bits/xopen_lim.h \
@@ -34,7 +34,7 @@ xdmcp.lo: xdmcp.c ../include/dix-config.h /usr/include/X11/Xos.h \
  /usr/include/rpc/netdb.h /usr/include/bits/siginfo.h \
  /usr/include/bits/netdb.h /usr/include/stdio.h /usr/include/libio.h \
  /usr/include/_G_config.h /usr/include/wchar.h \
- /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stdarg.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h \
  /usr/include/bits/sys_errlist.h /usr/include/bits/stdio.h \
  /usr/include/bits/waitflags.h /usr/include/bits/waitstatus.h \
  /usr/include/alloca.h /usr/include/X11/X.h /usr/include/X11/Xmd.h \
@@ -83,7 +83,7 @@ xdmcp.lo: xdmcp.c ../include/dix-config.h /usr/include/X11/Xos.h \
 
 /usr/include/time.h:
 
-/usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
 /usr/include/endian.h:
 
@@ -137,9 +137,9 @@ xdmcp.lo: xdmcp.c ../include/dix-config.h /usr/include/X11/Xos.h \
 
 /usr/include/sys/param.h:
 
-/usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/limits.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h:
 
-/usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/syslimits.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/syslimits.h:
 
 /usr/include/limits.h:
 
@@ -201,7 +201,7 @@ xdmcp.lo: xdmcp.c ../include/dix-config.h /usr/include/X11/Xos.h \
 
 /usr/include/wchar.h:
 
-/usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stdarg.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h:
 
 /usr/include/bits/sys_errlist.h:
 

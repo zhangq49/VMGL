@@ -696,7 +696,7 @@ fontnames.o: ../../.././exports/include/X11/Xosdefs.h /usr/include/string.h
 fontnames.o: /usr/include/features.h /usr/include/sys/cdefs.h
 fontnames.o: /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h
 fontnames.o: /usr/include/gnu/stubs-64.h
-fontnames.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+fontnames.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 fontnames.o: ../../.././exports/include/X11/Xmd.h
 fontnames.o: ../../.././include/fonts/fontstruct.h
 fontnames.o: ../../.././exports/include/X11/Xproto.h
@@ -709,7 +709,7 @@ fontutil.o: ../../.././exports/include/X11/Xosdefs.h /usr/include/string.h
 fontutil.o: /usr/include/features.h /usr/include/sys/cdefs.h
 fontutil.o: /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h
 fontutil.o: /usr/include/gnu/stubs-64.h
-fontutil.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+fontutil.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 fontutil.o: ../../.././exports/include/X11/Xmd.h
 fontutil.o: ../../.././include/fonts/fontstruct.h
 fontutil.o: ../../.././exports/include/X11/Xproto.h
@@ -723,7 +723,7 @@ fontxlfd.o: ../../.././exports/include/X11/Xosdefs.h /usr/include/string.h
 fontxlfd.o: /usr/include/features.h /usr/include/sys/cdefs.h
 fontxlfd.o: /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h
 fontxlfd.o: /usr/include/gnu/stubs-64.h
-fontxlfd.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+fontxlfd.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 fontxlfd.o: ../../.././exports/include/X11/Xmd.h
 fontxlfd.o: ../../.././include/fonts/fontstruct.h
 fontxlfd.o: ../../.././exports/include/X11/Xproto.h
@@ -751,7 +751,7 @@ fontxlfd.o: /usr/include/alloca.h /usr/include/locale.h
 fontxlfd.o: /usr/include/bits/locale.h /usr/include/ctype.h
 fontxlfd.o: /usr/include/stdio.h /usr/include/libio.h
 fontxlfd.o: /usr/include/_G_config.h /usr/include/wchar.h
-fontxlfd.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stdarg.h
+fontxlfd.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h
 fontxlfd.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
 format.o: ../../.././include/fonts/FSproto.h ../../.././include/fonts/FS.h
 format.o: ../../.././include/fonts/fsmasks.h
@@ -762,7 +762,7 @@ fontaccel.o: ../../.././exports/include/X11/Xosdefs.h /usr/include/string.h
 fontaccel.o: /usr/include/features.h /usr/include/sys/cdefs.h
 fontaccel.o: /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h
 fontaccel.o: /usr/include/gnu/stubs-64.h
-fontaccel.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+fontaccel.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 fontaccel.o: ../../.././exports/include/X11/Xmd.h
 fontaccel.o: ../../.././include/fonts/fontstruct.h
 fontaccel.o: ../../.././exports/include/X11/Xproto.h
@@ -775,13 +775,13 @@ atom.o: ../../.././exports/include/X11/Xosdefs.h /usr/include/string.h
 atom.o: /usr/include/features.h /usr/include/sys/cdefs.h
 atom.o: /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h
 atom.o: /usr/include/gnu/stubs-64.h
-atom.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+atom.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 atom.o: ../../.././exports/include/X11/Xmd.h
 miscutil.o: ../../.././exports/include/X11/Xosdefs.h /usr/include/stdlib.h
 miscutil.o: /usr/include/features.h /usr/include/sys/cdefs.h
 miscutil.o: /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h
 miscutil.o: /usr/include/gnu/stubs-64.h
-miscutil.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+miscutil.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 miscutil.o: /usr/include/bits/waitflags.h /usr/include/bits/waitstatus.h
 miscutil.o: /usr/include/endian.h /usr/include/bits/endian.h
 miscutil.o: /usr/include/bits/byteswap.h /usr/include/sys/types.h
@@ -796,7 +796,7 @@ private.o: ../../.././exports/include/X11/Xosdefs.h /usr/include/string.h
 private.o: /usr/include/features.h /usr/include/sys/cdefs.h
 private.o: /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h
 private.o: /usr/include/gnu/stubs-64.h
-private.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+private.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 private.o: ../../.././exports/include/X11/Xmd.h
 private.o: ../../.././include/fonts/fontstruct.h
 private.o: ../../.././exports/include/X11/Xproto.h
@@ -808,7 +808,7 @@ patcache.o: ../../.././exports/include/X11/Xosdefs.h /usr/include/string.h
 patcache.o: /usr/include/features.h /usr/include/sys/cdefs.h
 patcache.o: /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h
 patcache.o: /usr/include/gnu/stubs-64.h
-patcache.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+patcache.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 patcache.o: ../../.././exports/include/X11/Xmd.h
 patcache.o: ../../.././include/fonts/fontstruct.h
 patcache.o: ../../.././exports/include/X11/Xproto.h

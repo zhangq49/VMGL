@@ -705,10 +705,10 @@ depend::
 init.o: /usr/include/stdio.h /usr/include/features.h /usr/include/sys/cdefs.h
 init.o: /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h
 init.o: /usr/include/gnu/stubs-64.h
-init.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+init.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 init.o: /usr/include/bits/types.h /usr/include/bits/typesizes.h
 init.o: /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h
-init.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stdarg.h
+init.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h
 init.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
 init.o: /usr/include/getopt.h /usr/include/unistd.h
 init.o: /usr/include/bits/posix_opt.h /usr/include/bits/environments.h
@@ -764,10 +764,10 @@ init.o: /usr/include/zconf.h
 sockets.o: /usr/include/stdio.h /usr/include/features.h
 sockets.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
 sockets.o: /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h
-sockets.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+sockets.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 sockets.o: /usr/include/bits/types.h /usr/include/bits/typesizes.h
 sockets.o: /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h
-sockets.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stdarg.h
+sockets.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h
 sockets.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
 sockets.o: /usr/include/getopt.h /usr/include/sys/types.h /usr/include/time.h
 sockets.o: /usr/include/endian.h /usr/include/bits/endian.h
@@ -819,10 +819,10 @@ sockets.o: /usr/include/bits/confname.h
 kbdptr.o: /usr/include/stdio.h /usr/include/features.h
 kbdptr.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
 kbdptr.o: /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h
-kbdptr.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+kbdptr.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 kbdptr.o: /usr/include/bits/types.h /usr/include/bits/typesizes.h
 kbdptr.o: /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h
-kbdptr.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stdarg.h
+kbdptr.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h
 kbdptr.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
 kbdptr.o: /usr/include/getopt.h ../../../.././exports/include/X11/X.h
 kbdptr.o: ../../../.././exports/include/X11/Xmd.h
@@ -863,10 +863,10 @@ kbdptr.o: /usr/include/bits/confname.h
 cmap.o: /usr/include/stdio.h /usr/include/features.h /usr/include/sys/cdefs.h
 cmap.o: /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h
 cmap.o: /usr/include/gnu/stubs-64.h
-cmap.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+cmap.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 cmap.o: /usr/include/bits/types.h /usr/include/bits/typesizes.h
 cmap.o: /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h
-cmap.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stdarg.h
+cmap.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h
 cmap.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
 cmap.o: /usr/include/getopt.h ../../include/scrnintstr.h
 cmap.o: ../../include/screenint.h ../../include/misc.h
@@ -902,10 +902,10 @@ cmap.o: /usr/include/bits/confname.h
 draw.o: /usr/include/stdio.h /usr/include/features.h /usr/include/sys/cdefs.h
 draw.o: /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h
 draw.o: /usr/include/gnu/stubs-64.h
-draw.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+draw.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 draw.o: /usr/include/bits/types.h /usr/include/bits/typesizes.h
 draw.o: /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h
-draw.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stdarg.h
+draw.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h
 draw.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
 draw.o: /usr/include/getopt.h ../../include/scrnintstr.h
 draw.o: ../../include/screenint.h ../../include/misc.h
@@ -947,11 +947,11 @@ draw.o: /usr/include/bits/confname.h ../../mfb/mfb.h ../../mi/mibstore.h
 cutpaste.o: /usr/include/stdio.h /usr/include/features.h
 cutpaste.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
 cutpaste.o: /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h
-cutpaste.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+cutpaste.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 cutpaste.o: /usr/include/bits/types.h /usr/include/bits/typesizes.h
 cutpaste.o: /usr/include/libio.h /usr/include/_G_config.h
 cutpaste.o: /usr/include/wchar.h
-cutpaste.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stdarg.h
+cutpaste.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h
 cutpaste.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
 cutpaste.o: /usr/include/getopt.h ../../../.././exports/include/X11/X.h
 cutpaste.o: ../../../.././exports/include/X11/Xproto.h
@@ -998,7 +998,7 @@ dispcur.o: ../../../.././exports/include/X11/Xalloca.h /usr/include/string.h
 dispcur.o: /usr/include/features.h /usr/include/sys/cdefs.h
 dispcur.o: /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h
 dispcur.o: /usr/include/gnu/stubs-64.h
-dispcur.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+dispcur.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 dispcur.o: ../../../.././exports/include/X11/Xfuncs.h ../../include/input.h
 dispcur.o: ../../include/screenint.h
 dispcur.o: ../../../.././exports/include/X11/Xproto.h
@@ -1025,7 +1025,7 @@ sprite.o: ../../../.././exports/include/X11/Xalloca.h /usr/include/string.h
 sprite.o: /usr/include/features.h /usr/include/sys/cdefs.h
 sprite.o: /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h
 sprite.o: /usr/include/gnu/stubs-64.h
-sprite.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+sprite.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 sprite.o: ../../../.././exports/include/X11/Xfuncs.h
 sprite.o: ../../include/pixmapstr.h ../../include/pixmap.h
 sprite.o: ../../include/screenint.h ../../include/miscstruct.h
@@ -1061,15 +1061,15 @@ sprite.o: ../../../.././../include/vncauth.h /usr/include/zlib.h
 sprite.o: /usr/include/zconf.h /usr/include/unistd.h
 sprite.o: /usr/include/bits/posix_opt.h /usr/include/bits/environments.h
 sprite.o: /usr/include/bits/confname.h /usr/include/getopt.h
-sprite.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stdarg.h
+sprite.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h
 rfbserver.o: /usr/include/stdio.h /usr/include/features.h
 rfbserver.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
 rfbserver.o: /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h
-rfbserver.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+rfbserver.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 rfbserver.o: /usr/include/bits/types.h /usr/include/bits/typesizes.h
 rfbserver.o: /usr/include/libio.h /usr/include/_G_config.h
 rfbserver.o: /usr/include/wchar.h
-rfbserver.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stdarg.h
+rfbserver.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h
 rfbserver.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
 rfbserver.o: /usr/include/getopt.h /usr/include/stdlib.h
 rfbserver.o: /usr/include/bits/waitflags.h /usr/include/bits/waitstatus.h
@@ -1120,11 +1120,11 @@ rfbserver.o: /usr/include/zconf.h ../../mi/mipointer.h sprite.h
 translate.o: /usr/include/stdio.h /usr/include/features.h
 translate.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
 translate.o: /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h
-translate.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+translate.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 translate.o: /usr/include/bits/types.h /usr/include/bits/typesizes.h
 translate.o: /usr/include/libio.h /usr/include/_G_config.h
 translate.o: /usr/include/wchar.h
-translate.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stdarg.h
+translate.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h
 translate.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
 translate.o: /usr/include/getopt.h rfb.h ../../include/scrnintstr.h
 translate.o: ../../include/screenint.h ../../include/misc.h
@@ -1164,10 +1164,10 @@ translate.o: tableinitcmtemplate.c tabletranstemplate.c
 httpd.o: /usr/include/stdio.h /usr/include/features.h
 httpd.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
 httpd.o: /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h
-httpd.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+httpd.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 httpd.o: /usr/include/bits/types.h /usr/include/bits/typesizes.h
 httpd.o: /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h
-httpd.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stdarg.h
+httpd.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h
 httpd.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
 httpd.o: /usr/include/getopt.h /usr/include/stdlib.h
 httpd.o: /usr/include/bits/waitflags.h /usr/include/bits/waitstatus.h
@@ -1220,10 +1220,10 @@ httpd.o: /usr/include/zconf.h
 auth.o: /usr/include/stdio.h /usr/include/features.h /usr/include/sys/cdefs.h
 auth.o: /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h
 auth.o: /usr/include/gnu/stubs-64.h
-auth.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+auth.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 auth.o: /usr/include/bits/types.h /usr/include/bits/typesizes.h
 auth.o: /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h
-auth.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stdarg.h
+auth.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h
 auth.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
 auth.o: /usr/include/getopt.h /usr/include/stdlib.h
 auth.o: /usr/include/bits/waitflags.h /usr/include/bits/waitstatus.h
@@ -1264,10 +1264,10 @@ auth.o: /usr/include/bits/confname.h
 rre.o: /usr/include/stdio.h /usr/include/features.h /usr/include/sys/cdefs.h
 rre.o: /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h
 rre.o: /usr/include/gnu/stubs-64.h
-rre.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+rre.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 rre.o: /usr/include/bits/types.h /usr/include/bits/typesizes.h
 rre.o: /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h
-rre.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stdarg.h
+rre.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h
 rre.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
 rre.o: /usr/include/getopt.h rfb.h ../../include/scrnintstr.h
 rre.o: ../../include/screenint.h ../../include/misc.h
@@ -1300,10 +1300,10 @@ rre.o: /usr/include/bits/confname.h
 corre.o: /usr/include/stdio.h /usr/include/features.h
 corre.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
 corre.o: /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h
-corre.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+corre.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 corre.o: /usr/include/bits/types.h /usr/include/bits/typesizes.h
 corre.o: /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h
-corre.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stdarg.h
+corre.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h
 corre.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
 corre.o: /usr/include/getopt.h rfb.h ../../include/scrnintstr.h
 corre.o: ../../include/screenint.h ../../include/misc.h
@@ -1339,10 +1339,10 @@ corre.o: /usr/include/bits/confname.h
 stats.o: /usr/include/stdio.h /usr/include/features.h
 stats.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
 stats.o: /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h
-stats.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+stats.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 stats.o: /usr/include/bits/types.h /usr/include/bits/typesizes.h
 stats.o: /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h
-stats.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stdarg.h
+stats.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h
 stats.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
 stats.o: /usr/include/getopt.h /usr/include/stdlib.h
 stats.o: /usr/include/bits/waitflags.h /usr/include/bits/waitstatus.h
@@ -1380,10 +1380,10 @@ stats.o: /usr/include/bits/confname.h
 hextile.o: /usr/include/stdio.h /usr/include/features.h
 hextile.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
 hextile.o: /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h
-hextile.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+hextile.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 hextile.o: /usr/include/bits/types.h /usr/include/bits/typesizes.h
 hextile.o: /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h
-hextile.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stdarg.h
+hextile.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h
 hextile.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
 hextile.o: /usr/include/getopt.h rfb.h ../../include/scrnintstr.h
 hextile.o: ../../include/screenint.h ../../include/misc.h
@@ -1421,10 +1421,10 @@ hextile.o: /usr/include/bits/confname.h
 zlib.o: /usr/include/stdio.h /usr/include/features.h /usr/include/sys/cdefs.h
 zlib.o: /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h
 zlib.o: /usr/include/gnu/stubs-64.h
-zlib.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+zlib.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 zlib.o: /usr/include/bits/types.h /usr/include/bits/typesizes.h
 zlib.o: /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h
-zlib.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stdarg.h
+zlib.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h
 zlib.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
 zlib.o: /usr/include/getopt.h rfb.h ../../include/scrnintstr.h
 zlib.o: ../../include/screenint.h ../../include/misc.h
@@ -1459,10 +1459,10 @@ zlib.o: /usr/include/bits/confname.h
 tight.o: /usr/include/stdio.h /usr/include/features.h
 tight.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
 tight.o: /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h
-tight.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+tight.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 tight.o: /usr/include/bits/types.h /usr/include/bits/typesizes.h
 tight.o: /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h
-tight.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stdarg.h
+tight.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h
 tight.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
 tight.o: /usr/include/getopt.h rfb.h ../../include/scrnintstr.h
 tight.o: ../../include/screenint.h ../../include/misc.h
@@ -1499,10 +1499,10 @@ tight.o: /usr/include/jconfig.h /usr/include/jmorecfg.h
 cursor.o: /usr/include/stdio.h /usr/include/features.h
 cursor.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
 cursor.o: /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h
-cursor.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+cursor.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 cursor.o: /usr/include/bits/types.h /usr/include/bits/typesizes.h
 cursor.o: /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h
-cursor.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stdarg.h
+cursor.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h
 cursor.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
 cursor.o: /usr/include/getopt.h rfb.h ../../include/scrnintstr.h
 cursor.o: ../../include/screenint.h ../../include/misc.h

@@ -6,7 +6,7 @@ Files.lo: Files.c ../../../include/xorg-config.h \
  /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h \
  /usr/include/bits/types.h /usr/include/bits/typesizes.h \
  /usr/include/time.h \
- /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h \
  /usr/include/endian.h /usr/include/bits/endian.h \
  /usr/include/bits/byteswap.h /usr/include/sys/select.h \
  /usr/include/bits/select.h /usr/include/bits/sigset.h \
@@ -21,7 +21,7 @@ Files.lo: Files.c ../../../include/xorg-config.h \
  /usr/include/sys/time.h /usr/include/X11/Xarch.h xf86Parser.h \
  xf86Optrec.h /usr/include/stdio.h /usr/include/libio.h \
  /usr/include/_G_config.h /usr/include/wchar.h \
- /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stdarg.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h \
  /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
  /usr/include/bits/stdio.h /usr/include/X11/Xfuncproto.h xf86tokens.h \
  Configint.h configProcs.h /usr/include/bits/waitflags.h \
@@ -55,7 +55,7 @@ Files.lo: Files.c ../../../include/xorg-config.h \
 
 /usr/include/time.h:
 
-/usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
 /usr/include/endian.h:
 
@@ -119,7 +119,7 @@ xf86Optrec.h:
 
 /usr/include/wchar.h:
 
-/usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stdarg.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h:
 
 /usr/include/bits/stdio_lim.h:
 

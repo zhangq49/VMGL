@@ -710,10 +710,10 @@ depend::
 shape.o: /usr/include/stdio.h /usr/include/features.h
 shape.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
 shape.o: /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h
-shape.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+shape.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 shape.o: /usr/include/bits/types.h /usr/include/bits/typesizes.h
 shape.o: /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h
-shape.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stdarg.h
+shape.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h
 shape.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
 shape.o: /usr/include/getopt.h ../../.././exports/include/X11/X.h
 shape.o: ../../.././exports/include/X11/Xmd.h
@@ -740,7 +740,7 @@ shm.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
 shm.o: /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h
 shm.o: /usr/include/bits/types.h /usr/include/bits/typesizes.h
 shm.o: /usr/include/time.h
-shm.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+shm.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 shm.o: /usr/include/endian.h /usr/include/bits/endian.h
 shm.o: /usr/include/bits/byteswap.h /usr/include/sys/select.h
 shm.o: /usr/include/bits/select.h /usr/include/bits/sigset.h
@@ -772,10 +772,10 @@ shm.o: ../../.././exports/include/X11/Xfuncproto.h
 mbuf.o: /usr/include/stdio.h /usr/include/features.h /usr/include/sys/cdefs.h
 mbuf.o: /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h
 mbuf.o: /usr/include/gnu/stubs-64.h
-mbuf.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+mbuf.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 mbuf.o: /usr/include/bits/types.h /usr/include/bits/typesizes.h
 mbuf.o: /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h
-mbuf.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stdarg.h
+mbuf.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h
 mbuf.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
 mbuf.o: /usr/include/getopt.h ../../.././exports/include/X11/X.h
 mbuf.o: ../../.././exports/include/X11/Xmd.h
@@ -810,7 +810,7 @@ mitmisc.o: ../../.././exports/include/X11/Xalloca.h /usr/include/string.h
 mitmisc.o: /usr/include/features.h /usr/include/sys/cdefs.h
 mitmisc.o: /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h
 mitmisc.o: /usr/include/gnu/stubs-64.h
-mitmisc.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+mitmisc.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 mitmisc.o: ../../.././exports/include/X11/Xfuncs.h ../include/dixstruct.h
 mitmisc.o: ../include/dix.h ../include/gc.h
 mitmisc.o: ../../.././exports/include/X11/Xproto.h ../include/screenint.h
@@ -830,7 +830,7 @@ xtest.o: ../../.././exports/include/X11/Xalloca.h /usr/include/string.h
 xtest.o: /usr/include/features.h /usr/include/sys/cdefs.h
 xtest.o: /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h
 xtest.o: /usr/include/gnu/stubs-64.h
-xtest.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+xtest.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 xtest.o: ../../.././exports/include/X11/Xfuncs.h ../include/dixstruct.h
 xtest.o: ../include/dix.h ../include/gc.h
 xtest.o: ../../.././exports/include/X11/Xproto.h ../include/screenint.h
@@ -845,11 +845,11 @@ xtest.o: ../../.././include/extensions/xteststr.h
 xtest1di.o: /usr/include/stdio.h /usr/include/features.h
 xtest1di.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
 xtest1di.o: /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h
-xtest1di.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+xtest1di.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 xtest1di.o: /usr/include/bits/types.h /usr/include/bits/typesizes.h
 xtest1di.o: /usr/include/libio.h /usr/include/_G_config.h
 xtest1di.o: /usr/include/wchar.h
-xtest1di.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stdarg.h
+xtest1di.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h
 xtest1di.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
 xtest1di.o: /usr/include/getopt.h ../../.././exports/include/X11/X.h
 xtest1di.o: ../../.././exports/include/X11/Xmd.h
@@ -872,11 +872,11 @@ xtest1di.o: xtest1dd.h
 xtest1dd.o: /usr/include/stdio.h /usr/include/features.h
 xtest1dd.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
 xtest1dd.o: /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h
-xtest1dd.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+xtest1dd.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 xtest1dd.o: /usr/include/bits/types.h /usr/include/bits/typesizes.h
 xtest1dd.o: /usr/include/libio.h /usr/include/_G_config.h
 xtest1dd.o: /usr/include/wchar.h
-xtest1dd.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stdarg.h
+xtest1dd.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h
 xtest1dd.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
 xtest1dd.o: /usr/include/getopt.h ../../.././exports/include/X11/Xos.h
 xtest1dd.o: ../../.././exports/include/X11/Xosdefs.h /usr/include/sys/types.h
@@ -914,7 +914,7 @@ sleepuntil.o: ../../.././exports/include/X11/Xalloca.h /usr/include/string.h
 sleepuntil.o: /usr/include/features.h /usr/include/sys/cdefs.h
 sleepuntil.o: /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h
 sleepuntil.o: /usr/include/gnu/stubs-64.h
-sleepuntil.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+sleepuntil.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 sleepuntil.o: ../../.././exports/include/X11/Xfuncs.h ../include/windowstr.h
 sleepuntil.o: ../include/window.h ../include/region.h ../include/regionstr.h
 sleepuntil.o: ../include/miscstruct.h
@@ -936,7 +936,7 @@ bigreq.o: ../../.././exports/include/X11/Xalloca.h /usr/include/string.h
 bigreq.o: /usr/include/features.h /usr/include/sys/cdefs.h
 bigreq.o: /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h
 bigreq.o: /usr/include/gnu/stubs-64.h
-bigreq.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+bigreq.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 bigreq.o: ../../.././exports/include/X11/Xfuncs.h ../include/dixstruct.h
 bigreq.o: ../include/dix.h ../include/gc.h
 bigreq.o: ../../.././exports/include/X11/Xproto.h ../include/screenint.h
@@ -947,10 +947,10 @@ bigreq.o: ../include/extension.h ../../.././include/extensions/bigreqstr.h
 sync.o: /usr/include/stdio.h /usr/include/features.h /usr/include/sys/cdefs.h
 sync.o: /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h
 sync.o: /usr/include/gnu/stubs-64.h
-sync.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+sync.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 sync.o: /usr/include/bits/types.h /usr/include/bits/typesizes.h
 sync.o: /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h
-sync.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stdarg.h
+sync.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h
 sync.o: /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h
 sync.o: /usr/include/getopt.h ../../.././exports/include/X11/X.h
 sync.o: ../../.././exports/include/X11/Xmd.h
@@ -983,7 +983,7 @@ xcmisc.o: ../../.././exports/include/X11/Xalloca.h /usr/include/string.h
 xcmisc.o: /usr/include/features.h /usr/include/sys/cdefs.h
 xcmisc.o: /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h
 xcmisc.o: /usr/include/gnu/stubs-64.h
-xcmisc.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+xcmisc.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 xcmisc.o: ../../.././exports/include/X11/Xfuncs.h ../include/dixstruct.h
 xcmisc.o: ../include/dix.h ../include/gc.h
 xcmisc.o: ../../.././exports/include/X11/Xproto.h ../include/screenint.h
@@ -1003,7 +1003,7 @@ xprint.o: ../../.././exports/include/X11/Xalloca.h /usr/include/string.h
 xprint.o: /usr/include/features.h /usr/include/sys/cdefs.h
 xprint.o: /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h
 xprint.o: /usr/include/gnu/stubs-64.h
-xprint.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+xprint.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 xprint.o: ../../.././exports/include/X11/Xfuncs.h ../include/windowstr.h
 xprint.o: ../include/window.h ../include/region.h ../include/regionstr.h
 xprint.o: ../include/miscstruct.h ../include/screenint.h
@@ -1027,7 +1027,7 @@ VMGLExtension.o: ../../.././exports/include/X11/Xalloca.h
 VMGLExtension.o: /usr/include/string.h /usr/include/features.h
 VMGLExtension.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
 VMGLExtension.o: /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h
-VMGLExtension.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+VMGLExtension.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 VMGLExtension.o: ../../.././exports/include/X11/Xfuncs.h
 VMGLExtension.o: ../include/miscstruct.h
 VMGLExtension.o: ../../.././exports/include/X11/Xprotostr.h
@@ -1063,7 +1063,7 @@ VMGLExtension.o: /usr/include/asm-generic/errno.h
 VMGLExtension.o: /usr/include/asm-generic/errno-base.h /usr/include/stdio.h
 VMGLExtension.o: /usr/include/libio.h /usr/include/_G_config.h
 VMGLExtension.o: /usr/include/wchar.h
-VMGLExtension.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stdarg.h
+VMGLExtension.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h
 VMGLExtension.o: /usr/include/bits/stdio_lim.h
 VMGLExtension.o: /usr/include/bits/sys_errlist.h /usr/include/getopt.h
 VMGLExtension.o: /usr/include/sys/un.h /usr/include/sys/mman.h

@@ -1664,7 +1664,7 @@ cfbgc.o: ../../.././exports/include/X11/Xprotostr.h cfb.h ../include/pixmap.h
 cfbgc.o: ../include/misc.h ../../.././exports/include/X11/Xosdefs.h
 cfbgc.o: ../../.././exports/include/X11/Xfuncproto.h
 cfbgc.o: ../../.././exports/include/X11/X.h
-cfbgc.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+cfbgc.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 cfbgc.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 cfbgc.o: /usr/include/string.h /usr/include/features.h
 cfbgc.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -1692,7 +1692,7 @@ cfbrrop.o: ../include/pixmap.h ../include/misc.h
 cfbrrop.o: ../../.././exports/include/X11/Xosdefs.h
 cfbrrop.o: ../../.././exports/include/X11/Xfuncproto.h
 cfbrrop.o: ../../.././exports/include/X11/X.h
-cfbrrop.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+cfbrrop.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 cfbrrop.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 cfbrrop.o: /usr/include/string.h /usr/include/features.h
 cfbrrop.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -1712,7 +1712,7 @@ cfbwindow.o: ../include/screenint.h ../include/misc.h
 cfbwindow.o: ../../.././exports/include/X11/Xosdefs.h
 cfbwindow.o: ../../.././exports/include/X11/Xfuncproto.h
 cfbwindow.o: ../../.././exports/include/X11/X.h
-cfbwindow.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+cfbwindow.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 cfbwindow.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 cfbwindow.o: /usr/include/string.h /usr/include/features.h
 cfbwindow.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -1736,7 +1736,7 @@ cfbpntwin.o: ../include/window.h ../include/misc.h
 cfbpntwin.o: ../../.././exports/include/X11/Xosdefs.h
 cfbpntwin.o: ../../.././exports/include/X11/Xfuncproto.h
 cfbpntwin.o: ../../.././exports/include/X11/X.h
-cfbpntwin.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+cfbpntwin.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 cfbpntwin.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 cfbpntwin.o: /usr/include/string.h /usr/include/features.h
 cfbpntwin.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -1762,7 +1762,7 @@ cfbmskbits.o: cfb.h ../include/pixmap.h ../include/misc.h
 cfbmskbits.o: ../../.././exports/include/X11/Xosdefs.h
 cfbmskbits.o: ../../.././exports/include/X11/Xfuncproto.h
 cfbmskbits.o: ../../.././exports/include/X11/X.h
-cfbmskbits.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+cfbmskbits.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 cfbmskbits.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 cfbmskbits.o: /usr/include/string.h /usr/include/features.h
 cfbmskbits.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -1784,7 +1784,7 @@ cfbpixmap.o: ../../.././exports/include/X11/Xosdefs.h
 cfbpixmap.o: ../../.././exports/include/X11/Xfuncproto.h
 cfbpixmap.o: ../../.././exports/include/X11/Xmd.h
 cfbpixmap.o: ../../.././exports/include/X11/X.h
-cfbpixmap.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+cfbpixmap.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 cfbpixmap.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 cfbpixmap.o: /usr/include/string.h /usr/include/features.h
 cfbpixmap.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -1810,7 +1810,7 @@ cfbbitblt.o: ../include/gc.h ../include/misc.h
 cfbbitblt.o: ../../.././exports/include/X11/Xosdefs.h
 cfbbitblt.o: ../../.././exports/include/X11/Xfuncproto.h
 cfbbitblt.o: ../../.././exports/include/X11/X.h
-cfbbitblt.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+cfbbitblt.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 cfbbitblt.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 cfbbitblt.o: /usr/include/string.h /usr/include/features.h
 cfbbitblt.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -1835,7 +1835,7 @@ cfbfillsp.o: ../include/gcstruct.h ../include/gc.h ../include/misc.h
 cfbfillsp.o: ../../.././exports/include/X11/Xosdefs.h
 cfbfillsp.o: ../../.././exports/include/X11/Xfuncproto.h
 cfbfillsp.o: ../../.././exports/include/X11/X.h
-cfbfillsp.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+cfbfillsp.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 cfbfillsp.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 cfbfillsp.o: /usr/include/string.h /usr/include/features.h
 cfbfillsp.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -1860,7 +1860,7 @@ cfbsetsp.o: ../../.././exports/include/X11/Xmd.h ../include/servermd.h
 cfbsetsp.o: ../include/misc.h ../../.././exports/include/X11/Xosdefs.h
 cfbsetsp.o: ../../.././exports/include/X11/Xfuncproto.h
 cfbsetsp.o: ../../.././exports/include/X11/X.h
-cfbsetsp.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+cfbsetsp.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 cfbsetsp.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 cfbsetsp.o: /usr/include/string.h /usr/include/features.h
 cfbsetsp.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -1884,7 +1884,7 @@ cfbscrinit.o: ../include/scrnintstr.h ../include/screenint.h
 cfbscrinit.o: ../include/misc.h ../../.././exports/include/X11/Xosdefs.h
 cfbscrinit.o: ../../.././exports/include/X11/Xfuncproto.h
 cfbscrinit.o: ../../.././exports/include/X11/X.h
-cfbscrinit.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+cfbscrinit.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 cfbscrinit.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 cfbscrinit.o: /usr/include/string.h /usr/include/features.h
 cfbscrinit.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -1908,7 +1908,7 @@ cfballpriv.o: ../include/scrnintstr.h ../include/screenint.h
 cfballpriv.o: ../include/misc.h ../../.././exports/include/X11/Xosdefs.h
 cfballpriv.o: ../../.././exports/include/X11/Xfuncproto.h
 cfballpriv.o: ../../.././exports/include/X11/X.h
-cfballpriv.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+cfballpriv.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 cfballpriv.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 cfballpriv.o: /usr/include/string.h /usr/include/features.h
 cfballpriv.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -1931,7 +1931,7 @@ cfbgetsp.o: ../../.././exports/include/X11/Xmd.h ../include/servermd.h
 cfbgetsp.o: ../include/misc.h ../../.././exports/include/X11/Xosdefs.h
 cfbgetsp.o: ../../.././exports/include/X11/Xfuncproto.h
 cfbgetsp.o: ../../.././exports/include/X11/X.h
-cfbgetsp.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+cfbgetsp.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 cfbgetsp.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 cfbgetsp.o: /usr/include/string.h /usr/include/features.h
 cfbgetsp.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -1953,7 +1953,7 @@ cfbfillrct.o: ../include/gcstruct.h ../include/gc.h ../include/misc.h
 cfbfillrct.o: ../../.././exports/include/X11/Xosdefs.h
 cfbfillrct.o: ../../.././exports/include/X11/Xfuncproto.h
 cfbfillrct.o: ../../.././exports/include/X11/X.h
-cfbfillrct.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+cfbfillrct.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 cfbfillrct.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 cfbfillrct.o: /usr/include/string.h /usr/include/features.h
 cfbfillrct.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -1977,7 +1977,7 @@ cfbsolidC.o: ../include/gcstruct.h ../include/gc.h ../include/misc.h
 cfbsolidC.o: ../../.././exports/include/X11/Xosdefs.h
 cfbsolidC.o: ../../.././exports/include/X11/Xfuncproto.h
 cfbsolidC.o: ../../.././exports/include/X11/X.h
-cfbsolidC.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+cfbsolidC.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 cfbsolidC.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 cfbsolidC.o: /usr/include/string.h /usr/include/features.h
 cfbsolidC.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -2003,7 +2003,7 @@ cfbsolidX.o: ../include/gcstruct.h ../include/gc.h ../include/misc.h
 cfbsolidX.o: ../../.././exports/include/X11/Xosdefs.h
 cfbsolidX.o: ../../.././exports/include/X11/Xfuncproto.h
 cfbsolidX.o: ../../.././exports/include/X11/X.h
-cfbsolidX.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+cfbsolidX.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 cfbsolidX.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 cfbsolidX.o: /usr/include/string.h /usr/include/features.h
 cfbsolidX.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -2029,7 +2029,7 @@ cfbsolidG.o: ../include/gcstruct.h ../include/gc.h ../include/misc.h
 cfbsolidG.o: ../../.././exports/include/X11/Xosdefs.h
 cfbsolidG.o: ../../.././exports/include/X11/Xfuncproto.h
 cfbsolidG.o: ../../.././exports/include/X11/X.h
-cfbsolidG.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+cfbsolidG.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 cfbsolidG.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 cfbsolidG.o: /usr/include/string.h /usr/include/features.h
 cfbsolidG.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -2055,7 +2055,7 @@ cfbtileoddC.o: ../include/gcstruct.h ../include/gc.h ../include/misc.h
 cfbtileoddC.o: ../../.././exports/include/X11/Xosdefs.h
 cfbtileoddC.o: ../../.././exports/include/X11/Xfuncproto.h
 cfbtileoddC.o: ../../.././exports/include/X11/X.h
-cfbtileoddC.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+cfbtileoddC.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 cfbtileoddC.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 cfbtileoddC.o: /usr/include/string.h /usr/include/features.h
 cfbtileoddC.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -2081,7 +2081,7 @@ cfbtileoddG.o: ../include/gcstruct.h ../include/gc.h ../include/misc.h
 cfbtileoddG.o: ../../.././exports/include/X11/Xosdefs.h
 cfbtileoddG.o: ../../.././exports/include/X11/Xfuncproto.h
 cfbtileoddG.o: ../../.././exports/include/X11/X.h
-cfbtileoddG.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+cfbtileoddG.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 cfbtileoddG.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 cfbtileoddG.o: /usr/include/string.h /usr/include/features.h
 cfbtileoddG.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -2107,7 +2107,7 @@ cfbtile32C.o: ../include/gcstruct.h ../include/gc.h ../include/misc.h
 cfbtile32C.o: ../../.././exports/include/X11/Xosdefs.h
 cfbtile32C.o: ../../.././exports/include/X11/Xfuncproto.h
 cfbtile32C.o: ../../.././exports/include/X11/X.h
-cfbtile32C.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+cfbtile32C.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 cfbtile32C.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 cfbtile32C.o: /usr/include/string.h /usr/include/features.h
 cfbtile32C.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -2133,7 +2133,7 @@ cfbtile32G.o: ../include/gcstruct.h ../include/gc.h ../include/misc.h
 cfbtile32G.o: ../../.././exports/include/X11/Xosdefs.h
 cfbtile32G.o: ../../.././exports/include/X11/Xfuncproto.h
 cfbtile32G.o: ../../.././exports/include/X11/X.h
-cfbtile32G.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+cfbtile32G.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 cfbtile32G.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 cfbtile32G.o: /usr/include/string.h /usr/include/features.h
 cfbtile32G.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -2160,7 +2160,7 @@ cfbcmap.o: ../include/screenint.h ../include/misc.h
 cfbcmap.o: ../../.././exports/include/X11/Xosdefs.h
 cfbcmap.o: ../../.././exports/include/X11/Xfuncproto.h
 cfbcmap.o: ../../.././exports/include/X11/X.h
-cfbcmap.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+cfbcmap.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 cfbcmap.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 cfbcmap.o: /usr/include/string.h /usr/include/features.h
 cfbcmap.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -2178,7 +2178,7 @@ cfbzerarcC.o: ../include/miscstruct.h ../include/misc.h
 cfbzerarcC.o: ../../.././exports/include/X11/Xosdefs.h
 cfbzerarcC.o: ../../.././exports/include/X11/Xfuncproto.h
 cfbzerarcC.o: ../../.././exports/include/X11/X.h
-cfbzerarcC.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+cfbzerarcC.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 cfbzerarcC.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 cfbzerarcC.o: /usr/include/string.h /usr/include/features.h
 cfbzerarcC.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -2205,7 +2205,7 @@ cfbzerarcX.o: ../include/miscstruct.h ../include/misc.h
 cfbzerarcX.o: ../../.././exports/include/X11/Xosdefs.h
 cfbzerarcX.o: ../../.././exports/include/X11/Xfuncproto.h
 cfbzerarcX.o: ../../.././exports/include/X11/X.h
-cfbzerarcX.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+cfbzerarcX.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 cfbzerarcX.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 cfbzerarcX.o: /usr/include/string.h /usr/include/features.h
 cfbzerarcX.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -2232,7 +2232,7 @@ cfbzerarcG.o: ../include/miscstruct.h ../include/misc.h
 cfbzerarcG.o: ../../.././exports/include/X11/Xosdefs.h
 cfbzerarcG.o: ../../.././exports/include/X11/Xfuncproto.h
 cfbzerarcG.o: ../../.././exports/include/X11/X.h
-cfbzerarcG.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+cfbzerarcG.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 cfbzerarcG.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 cfbzerarcG.o: /usr/include/string.h /usr/include/features.h
 cfbzerarcG.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -2259,7 +2259,7 @@ cfbfillarcC.o: ../include/miscstruct.h ../include/misc.h
 cfbfillarcC.o: ../../.././exports/include/X11/Xosdefs.h
 cfbfillarcC.o: ../../.././exports/include/X11/Xfuncproto.h
 cfbfillarcC.o: ../../.././exports/include/X11/X.h
-cfbfillarcC.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+cfbfillarcC.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 cfbfillarcC.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 cfbfillarcC.o: /usr/include/string.h /usr/include/features.h
 cfbfillarcC.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -2286,7 +2286,7 @@ cfbfillarcG.o: ../include/miscstruct.h ../include/misc.h
 cfbfillarcG.o: ../../.././exports/include/X11/Xosdefs.h
 cfbfillarcG.o: ../../.././exports/include/X11/Xfuncproto.h
 cfbfillarcG.o: ../../.././exports/include/X11/X.h
-cfbfillarcG.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+cfbfillarcG.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 cfbfillarcG.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 cfbfillarcG.o: /usr/include/string.h /usr/include/features.h
 cfbfillarcG.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -2315,7 +2315,7 @@ cfbigblt8.o: ../include/pixmap.h ../include/misc.h
 cfbigblt8.o: ../../.././exports/include/X11/Xosdefs.h
 cfbigblt8.o: ../../.././exports/include/X11/Xfuncproto.h
 cfbigblt8.o: ../../.././exports/include/X11/X.h
-cfbigblt8.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+cfbigblt8.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 cfbigblt8.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 cfbigblt8.o: /usr/include/string.h /usr/include/features.h
 cfbigblt8.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -2344,7 +2344,7 @@ cfbglblt8.o: ../include/pixmap.h ../include/misc.h
 cfbglblt8.o: ../../.././exports/include/X11/Xosdefs.h
 cfbglblt8.o: ../../.././exports/include/X11/Xfuncproto.h
 cfbglblt8.o: ../../.././exports/include/X11/X.h
-cfbglblt8.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+cfbglblt8.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 cfbglblt8.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 cfbglblt8.o: /usr/include/string.h /usr/include/features.h
 cfbglblt8.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -2373,7 +2373,7 @@ cfbtegblt.o: ../include/pixmap.h ../include/misc.h
 cfbtegblt.o: ../../.././exports/include/X11/Xosdefs.h
 cfbtegblt.o: ../../.././exports/include/X11/Xfuncproto.h
 cfbtegblt.o: ../../.././exports/include/X11/X.h
-cfbtegblt.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+cfbtegblt.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 cfbtegblt.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 cfbtegblt.o: /usr/include/string.h /usr/include/features.h
 cfbtegblt.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -2398,7 +2398,7 @@ cfbbstore.o: ../../.././exports/include/X11/Xmd.h ../include/pixmap.h
 cfbbstore.o: ../include/misc.h ../../.././exports/include/X11/Xosdefs.h
 cfbbstore.o: ../../.././exports/include/X11/Xfuncproto.h
 cfbbstore.o: ../../.././exports/include/X11/X.h
-cfbbstore.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+cfbbstore.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 cfbbstore.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 cfbbstore.o: /usr/include/string.h /usr/include/features.h
 cfbbstore.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -2422,7 +2422,7 @@ cfbbltC.o: ../include/gc.h ../include/misc.h
 cfbbltC.o: ../../.././exports/include/X11/Xosdefs.h
 cfbbltC.o: ../../.././exports/include/X11/Xfuncproto.h
 cfbbltC.o: ../../.././exports/include/X11/X.h
-cfbbltC.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+cfbbltC.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 cfbbltC.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 cfbbltC.o: /usr/include/string.h /usr/include/features.h
 cfbbltC.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -2448,7 +2448,7 @@ cfbbltX.o: ../include/gc.h ../include/misc.h
 cfbbltX.o: ../../.././exports/include/X11/Xosdefs.h
 cfbbltX.o: ../../.././exports/include/X11/Xfuncproto.h
 cfbbltX.o: ../../.././exports/include/X11/X.h
-cfbbltX.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+cfbbltX.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 cfbbltX.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 cfbbltX.o: /usr/include/string.h /usr/include/features.h
 cfbbltX.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -2474,7 +2474,7 @@ cfbbltO.o: ../include/gc.h ../include/misc.h
 cfbbltO.o: ../../.././exports/include/X11/Xosdefs.h
 cfbbltO.o: ../../.././exports/include/X11/Xfuncproto.h
 cfbbltO.o: ../../.././exports/include/X11/X.h
-cfbbltO.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+cfbbltO.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 cfbbltO.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 cfbbltO.o: /usr/include/string.h /usr/include/features.h
 cfbbltO.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -2500,7 +2500,7 @@ cfbbltG.o: ../include/gc.h ../include/misc.h
 cfbbltG.o: ../../.././exports/include/X11/Xosdefs.h
 cfbbltG.o: ../../.././exports/include/X11/Xfuncproto.h
 cfbbltG.o: ../../.././exports/include/X11/X.h
-cfbbltG.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+cfbbltG.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 cfbbltG.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 cfbbltG.o: /usr/include/string.h /usr/include/features.h
 cfbbltG.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -2523,7 +2523,7 @@ cfbpolypnt.o: ../include/gc.h ../include/misc.h
 cfbpolypnt.o: ../../.././exports/include/X11/Xosdefs.h
 cfbpolypnt.o: ../../.././exports/include/X11/Xfuncproto.h
 cfbpolypnt.o: ../../.././exports/include/X11/X.h
-cfbpolypnt.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+cfbpolypnt.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 cfbpolypnt.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 cfbpolypnt.o: /usr/include/string.h /usr/include/features.h
 cfbpolypnt.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -2547,7 +2547,7 @@ cfbbres.o: ../../.././exports/include/X11/Xmd.h ../include/misc.h
 cfbbres.o: ../../.././exports/include/X11/Xosdefs.h
 cfbbres.o: ../../.././exports/include/X11/Xfuncproto.h
 cfbbres.o: ../../.././exports/include/X11/X.h
-cfbbres.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+cfbbres.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 cfbbres.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 cfbbres.o: /usr/include/string.h /usr/include/features.h
 cfbbres.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -2569,7 +2569,7 @@ cfbline.o: ../include/gc.h ../include/misc.h
 cfbline.o: ../../.././exports/include/X11/Xosdefs.h
 cfbline.o: ../../.././exports/include/X11/Xfuncproto.h
 cfbline.o: ../../.././exports/include/X11/X.h
-cfbline.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+cfbline.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 cfbline.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 cfbline.o: /usr/include/string.h /usr/include/features.h
 cfbline.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -2593,7 +2593,7 @@ cfbhrzvert.o: ../../.././exports/include/X11/Xmd.h ../include/gc.h
 cfbhrzvert.o: ../include/misc.h ../../.././exports/include/X11/Xosdefs.h
 cfbhrzvert.o: ../../.././exports/include/X11/Xfuncproto.h
 cfbhrzvert.o: ../../.././exports/include/X11/X.h
-cfbhrzvert.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+cfbhrzvert.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 cfbhrzvert.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 cfbhrzvert.o: /usr/include/string.h /usr/include/features.h
 cfbhrzvert.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -2615,7 +2615,7 @@ cfbbresd.o: ../../.././exports/include/X11/Xmd.h ../include/misc.h
 cfbbresd.o: ../../.././exports/include/X11/Xosdefs.h
 cfbbresd.o: ../../.././exports/include/X11/Xfuncproto.h
 cfbbresd.o: ../../.././exports/include/X11/X.h
-cfbbresd.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+cfbbresd.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 cfbbresd.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 cfbbresd.o: /usr/include/string.h /usr/include/features.h
 cfbbresd.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -2637,7 +2637,7 @@ cfbimage.o: ../include/window.h ../include/misc.h
 cfbimage.o: ../../.././exports/include/X11/Xosdefs.h
 cfbimage.o: ../../.././exports/include/X11/Xfuncproto.h
 cfbimage.o: ../../.././exports/include/X11/X.h
-cfbimage.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+cfbimage.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 cfbimage.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 cfbimage.o: /usr/include/string.h /usr/include/features.h
 cfbimage.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -2660,7 +2660,7 @@ cfbseg.o: ../include/gc.h ../include/misc.h
 cfbseg.o: ../../.././exports/include/X11/Xosdefs.h
 cfbseg.o: ../../.././exports/include/X11/Xfuncproto.h
 cfbseg.o: ../../.././exports/include/X11/X.h
-cfbseg.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+cfbseg.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 cfbseg.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 cfbseg.o: /usr/include/string.h /usr/include/features.h
 cfbseg.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -2685,7 +2685,7 @@ cfb8lineCO.o: ../include/gc.h ../include/misc.h
 cfb8lineCO.o: ../../.././exports/include/X11/Xosdefs.h
 cfb8lineCO.o: ../../.././exports/include/X11/Xfuncproto.h
 cfb8lineCO.o: ../../.././exports/include/X11/X.h
-cfb8lineCO.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+cfb8lineCO.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 cfb8lineCO.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 cfb8lineCO.o: /usr/include/string.h /usr/include/features.h
 cfb8lineCO.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -2712,7 +2712,7 @@ cfb8lineX.o: ../include/gc.h ../include/misc.h
 cfb8lineX.o: ../../.././exports/include/X11/Xosdefs.h
 cfb8lineX.o: ../../.././exports/include/X11/Xfuncproto.h
 cfb8lineX.o: ../../.././exports/include/X11/X.h
-cfb8lineX.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+cfb8lineX.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 cfb8lineX.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 cfb8lineX.o: /usr/include/string.h /usr/include/features.h
 cfb8lineX.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -2739,7 +2739,7 @@ cfb8lineG.o: ../include/gc.h ../include/misc.h
 cfb8lineG.o: ../../.././exports/include/X11/Xosdefs.h
 cfb8lineG.o: ../../.././exports/include/X11/Xfuncproto.h
 cfb8lineG.o: ../../.././exports/include/X11/X.h
-cfb8lineG.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+cfb8lineG.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 cfb8lineG.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 cfb8lineG.o: /usr/include/string.h /usr/include/features.h
 cfb8lineG.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -2766,7 +2766,7 @@ cfb8lineCP.o: ../include/gc.h ../include/misc.h
 cfb8lineCP.o: ../../.././exports/include/X11/Xosdefs.h
 cfb8lineCP.o: ../../.././exports/include/X11/Xfuncproto.h
 cfb8lineCP.o: ../../.././exports/include/X11/X.h
-cfb8lineCP.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+cfb8lineCP.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 cfb8lineCP.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 cfb8lineCP.o: /usr/include/string.h /usr/include/features.h
 cfb8lineCP.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -2793,7 +2793,7 @@ cfb8segC.o: ../include/gc.h ../include/misc.h
 cfb8segC.o: ../../.././exports/include/X11/Xosdefs.h
 cfb8segC.o: ../../.././exports/include/X11/Xfuncproto.h
 cfb8segC.o: ../../.././exports/include/X11/X.h
-cfb8segC.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+cfb8segC.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 cfb8segC.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 cfb8segC.o: /usr/include/string.h /usr/include/features.h
 cfb8segC.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -2819,7 +2819,7 @@ cfb8segX.o: ../include/gc.h ../include/misc.h
 cfb8segX.o: ../../.././exports/include/X11/Xosdefs.h
 cfb8segX.o: ../../.././exports/include/X11/Xfuncproto.h
 cfb8segX.o: ../../.././exports/include/X11/X.h
-cfb8segX.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+cfb8segX.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 cfb8segX.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 cfb8segX.o: /usr/include/string.h /usr/include/features.h
 cfb8segX.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -2845,7 +2845,7 @@ cfb8segG.o: ../include/gc.h ../include/misc.h
 cfb8segG.o: ../../.././exports/include/X11/Xosdefs.h
 cfb8segG.o: ../../.././exports/include/X11/Xfuncproto.h
 cfb8segG.o: ../../.././exports/include/X11/X.h
-cfb8segG.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+cfb8segG.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 cfb8segG.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 cfb8segG.o: /usr/include/string.h /usr/include/features.h
 cfb8segG.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -2871,7 +2871,7 @@ cfb8segCS.o: ../include/gc.h ../include/misc.h
 cfb8segCS.o: ../../.././exports/include/X11/Xosdefs.h
 cfb8segCS.o: ../../.././exports/include/X11/Xfuncproto.h
 cfb8segCS.o: ../../.././exports/include/X11/X.h
-cfb8segCS.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+cfb8segCS.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 cfb8segCS.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 cfb8segCS.o: /usr/include/string.h /usr/include/features.h
 cfb8segCS.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -2898,7 +2898,7 @@ cfbply1rctC.o: ../include/gc.h ../include/misc.h
 cfbply1rctC.o: ../../.././exports/include/X11/Xosdefs.h
 cfbply1rctC.o: ../../.././exports/include/X11/Xfuncproto.h
 cfbply1rctC.o: ../../.././exports/include/X11/X.h
-cfbply1rctC.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+cfbply1rctC.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 cfbply1rctC.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 cfbply1rctC.o: /usr/include/string.h /usr/include/features.h
 cfbply1rctC.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
@@ -2925,7 +2925,7 @@ cfbply1rctG.o: ../include/gc.h ../include/misc.h
 cfbply1rctG.o: ../../.././exports/include/X11/Xosdefs.h
 cfbply1rctG.o: ../../.././exports/include/X11/Xfuncproto.h
 cfbply1rctG.o: ../../.././exports/include/X11/X.h
-cfbply1rctG.o: /usr/lib/gcc/x86_64-redhat-linux/4.4.5/include/stddef.h
+cfbply1rctG.o: /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 cfbply1rctG.o: ../include/os.h ../../.././exports/include/X11/Xalloca.h
 cfbply1rctG.o: /usr/include/string.h /usr/include/features.h
 cfbply1rctG.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
